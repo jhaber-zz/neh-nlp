@@ -1,0 +1,616 @@
+<Games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NEH_Games.xsd">
+	<Game ID="3735">
+		<ApplicationNumber>HD-50106-07</ApplicationNumber>
+		<Abstract>This project is underdevelopment as we recreate ethnographically accurate dress and physiognomy for slaves and African laborers at the fort.</Abstract>
+		<AccessModel>Demonstration at University of California Games Day (most popular game)</AccessModel>
+		<Author>Magda ElZarki, Patricia Seed</Author>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Unity, 3dSMax</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Life in an African Slave Fort</Title>
+		<Year>2015</Year>
+	</Game>
+	<Game ID="3935">
+		<ApplicationNumber>HK-50021-12</ApplicationNumber>
+		<Abstract>Stupid Robot is a single-player browser game in which players input words and try to match a words that other players have entered previously.</Abstract>
+		<AccessModel/>
+		<Author>Tiltfactor</Author>
+		<PrimaryURL>http://www.metadatagames.org/#stupidrobot</PrimaryURL>
+		<PrimaryURLDescription>Webpage for Stupid Robot</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>web-based game. &amp;#x0D;
+&amp;#x0D;
+php, html5, javascript, css (see mg-game for source code)</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Stupid Robot</Title>
+		<Year>2014</Year>
+	</Game>
+	<Game ID="3936">
+		<ApplicationNumber>HK-50021-12</ApplicationNumber>
+		<Abstract>OneUp is a two-player game for iOS, Android, and web browsers. Players are shown the same image and must submit tags in a series of rounds. Points are awarded for submitting tags, with bonus points for matching words previously submitted and for not submitting tags their opponent has entered.</Abstract>
+		<AccessModel/>
+		<Author>Tiltfactor</Author>
+		<PrimaryURL>http://www.metadatagames.org/#oneup</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>web-based game. &amp;#x0D;
+&amp;#x0D;
+php, html5, javascript, css (see mg-game for source code)</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>One Up</Title>
+		<Year>2013</Year>
+	</Game>
+	<Game ID="3937">
+		<ApplicationNumber>HK-50021-12</ApplicationNumber>
+		<Abstract>Pyramid Tag is a single-player game for iOS and Android devices in which players have two minutes to try to match popular tags for images with a particular number of letter spaces provided. Points are awarded for matching a higher number of words of distinct length.</Abstract>
+		<AccessModel/>
+		<Author>Tiltfactor</Author>
+		<PrimaryURL>http://www.metadatagames.org/#pyramidtag</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>web-based game. &amp;#x0D;
+&amp;#x0D;
+php, html5, javascript, css (see mg-game for source code)</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Pyramid Tag</Title>
+		<Year>2013</Year>
+	</Game>
+	<Game ID="3938">
+		<ApplicationNumber>HK-50021-12</ApplicationNumber>
+		<Abstract>NexTag is a single-player browser game similar to Zen Tag in which players can tag audio and video files, which are presented to players in twenty-second segments.</Abstract>
+		<AccessModel/>
+		<Author>Tiltfactor</Author>
+		<PrimaryURL>http://www.metadatagames.org/#nextag</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>web-based game. &amp;#x0D;
+&amp;#x0D;
+php, html5, javascript, css (see mg-game for source code)</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>NexTag</Title>
+		<Year>2013</Year>
+	</Game>
+	<Game ID="3939">
+		<ApplicationNumber>HK-50021-12</ApplicationNumber>
+		<Abstract>Guess What is a two-player game in which one player is shown an image and must provide clues to a second player, helping him or her identify the first player's image from within a series. Points are awarded to both players based on the number of hints required for the guesser to correctly identify the image.</Abstract>
+		<AccessModel/>
+		<Author>Tiltfactor</Author>
+		<PrimaryURL>http://www.metadatagames.org/#guesswhat </PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>web-based game. &amp;#x0D;
+&amp;#x0D;
+php, html5, javascript, css (see mg-game for source code)</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Guess What! (v2.0)</Title>
+		<Year>2013</Year>
+	</Game>
+	<Game ID="3940">
+		<ApplicationNumber>HK-50021-12</ApplicationNumber>
+		<Abstract>ZenTag Tag is a single-player browser game. The game presents players with an image and invites them to describe the image with tags, separated by commas. Players are awarded points for the number of tags they submit.</Abstract>
+		<AccessModel/>
+		<Author>Tiltfactor</Author>
+		<PrimaryURL>http://www.metadatagames.org/#zentag</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>web-based game. &amp;#x0D;
+&amp;#x0D;
+php, html5, javascript, css (see mg-game for source code)</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Zen Tag (v2.0)</Title>
+		<Year>2013</Year>
+	</Game>
+	<Game ID="4628">
+		<ApplicationNumber>GI-50687-14</ApplicationNumber>
+		<Abstract>Web based game where contestants answer questions that are answered in the exhibition The Red that Colored the World at the Museum of International Folk Art</Abstract>
+		<AccessModel/>
+		<Author>Shelley Thompson, David Rohr</Author>
+		<PrimaryURL>http://www.santafenewmexican.com/newsletters/your morning headlines/</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable/>
+		<Title>Red Sweepstakes</Title>
+		<Year>2015</Year>
+	</Game>
+	<Game ID="4759">
+		<ApplicationNumber>AQ-50803-13</ApplicationNumber>
+		<Abstract>&amp;#x0D; Vixi: A Master's Way ("vixi" in Latin means "I have lived") features diverse paths to &amp;#x0D; meaning represented by eight schools of thought: the Classical Greeks, the Epicureans, the Stoics, the Taoists, the Existentialists, the Pessimists, the &amp;#x0D; Humanists, and the Buddhists. The game generates various scenarios for the player to respond to. Along the way, the Great Masters from each school offer their "advice" or "warnings" in the form of direct quotations. Some doors open and others close &amp;#x0D; based on whose advice the player follows. The player's philosophical portrait gradually emerges as his or her choices are being assessed by the Masters. The game has two modes of play: 1) you can follow your own path and see what philosophers have to say about your choices; or 2) you can become "a disciple" of one of the schools and try to "live a life" consistent with its teaching.</Abstract>
+		<AccessModel>open</AccessModel>
+		<Author>E. Cherkasova, D. Zinoviev</Author>
+		<PrimaryURL>http://meaningoflife.cherkasova.org/vixi-a-masters-way/  </PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Vixi: A Master's Way</Title>
+		<Year>2014</Year>
+	</Game>
+	<Game ID="5020">
+		<ApplicationNumber>RZ-51154-10</ApplicationNumber>
+		<Abstract>This web-based game challenges students to collect food for three meals from the Wingo's quarter and surrounding landscape, using faunal and floral data from the site. Students visit field edges, woods, plantation fields, a garden, and hen house, go fishing, visit the store, and receive provisions in order to collect enough food to feed themselves and their families. Obstacles abound.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Mark A. Freeman, Barbara J. Heath, Eric G. Schweickart</Author>
+		<PrimaryURL>http://web.utk.edu/~bheath2</PrimaryURL>
+		<PrimaryURLDescription>Follow the link to Education, Bones and Seeds, and Exploring the Food Landscape</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>javascript</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Exploring the Landscape for Food at Wingo's</Title>
+		<Year>2015</Year>
+	</Game>
+	<Game ID="12879">
+		<ApplicationNumber>MN-234066-16</ApplicationNumber>
+		<Abstract>Walden, a game is a six hour, exploratory narrative that begins in the summer of 1845 when Thoreau moved to the Pond and built his cabin there. Players follow in his footsteps, surviving in the woods by finding food and fuel and maintaining their shelter and clothing.  At the same time as players strive to survive off the land, they are encouraged to explore the beauty of the woods and the pond, which hold a promise of a sublime life beyond their basic needs. As well, they can interact with characters from Thoreau's life including mentor Ralph Waldo Emerson, sister Sophia Thoreau, editor Horace Greeley, activist A. Bronson Alcott, naturalist Louis Agassiz among others.  The game follows the loose narrative of Thoreau's first year in the woods, with each season holding its own challenges for survival and possibilities for inspiration.</Abstract>
+		<AccessModel>For sale (free to educators on request)</AccessModel>
+		<Author>USC Game Innovation Lab, Tracy Fullerton</Author>
+		<PrimaryURL>http://www.waldengame.com</PrimaryURL>
+		<PrimaryURLDescription>Project website for Walden, a game</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Unity game engine</ProgrammingLanguage_Platform>
+		<SecondaryURL>http://www.waldengame.com/educators</SecondaryURL>
+		<SecondaryURLDescription>Educators FAQ for Walden, a game including information on how to request a complimentary copy of the game.</SecondaryURLDescription>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Walden, a game</Title>
+		<Year>2017</Year>
+	</Game>
+	<Game ID="12885">
+		<ApplicationNumber>MT-234029-16</ApplicationNumber>
+		<Abstract>Two games about making history designed by the University of Southern California Game Innovation Lab. Chrono Scouts and Fact Fuse were created to teach middle and high school students about the causes of American Revolutionary War through practicing historical thinking. With Chrono Scouts on one side of the deck and Fact Fuse on the other, teachers and students have two ways to explore this critical moment in history.</Abstract>
+		<AccessModel>Open access</AccessModel>
+		<Author>Tracy Fullerton, Sean Bouchard, Martzi Campos</Author>
+		<PrimaryURL>http://history.gameinnovationlab.com</PrimaryURL>
+		<PrimaryURLDescription>ChronoCards homepage</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Unity game engine (digital version)</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Chrono Cards &amp;amp; Fact Fuse</Title>
+		<Year>2017</Year>
+	</Game>
+	<Game ID="12912">
+		<ApplicationNumber>FT-254689-17</ApplicationNumber>
+		<Abstract>"Inside the Japanese American internment," the text-based game completed during the fellowship term, draws on the demonstrated efficacy of educational gaming and empathic learning by having students play the first-person perspective of an internee.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Tara Fickle</Author>
+		<PrimaryURL>https://drive.google.com/file/d/0B5omLun8vsYFc1dhYlRuY3V4cVU/view?usp=sharing</PrimaryURL>
+		<PrimaryURLDescription>The web link is to a PDF file: an annotated version of a sample page from the game. The game will be rolled out following a final round of testing and certification by our digital scholarship center support staff.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Inside the Japanese American Internment: Interactive Fiction Game</Title>
+		<Year>2017</Year>
+	</Game>
+	<Game ID="14096">
+		<ApplicationNumber>HK-250704-16</ApplicationNumber>
+		<Abstract>WNET has launched a new version of Mission US: "For Crown or Colony?," its award-winning interactive game for middle grade American history students. Created to engage kids ages 9-13 in learning "from the inside" of American history, each game or "mission" puts students in the role of a young person at a pivotal point in history. In "For Crown or Colony?" the player is Nat, a 14-year-old printer's apprentice who experiences events leading up to the Boston Massacre in 1770. As players progress through the narrative, they meet historic figures, witness key events, encounter multiple perspectives, and then make choices that reflect the challenges of the times. The series and its accompanying resources for teachers are available at no charge.  Mission US launched in 2010, and the first five games in the series were built in Flash—a format that will be phased out by 2020. The revitalization of "For Crown or Colony?" begins the process of rebuilding the series in new technology, while deepening the humanities content and adding new features. The new version of "For Crown or Colony?" incorporates technical and instructional upgrades, including: •Converting the game to the Unity engine, and strengthening core technology. The new "For Crown or Colony?" is now accessible via web streaming on PCs, Macs, and Chromebooks, and via downloadable applications for PC and Mac. An iPad version will be released in January. •Enhancing the game's historical scholarship, visual design, and select scenes for a more impactful learning experience. •Integrating new and improved learning tools, including a new badge system, to enable young people to draw explicit connections between in-game choices and broader historical themes and perspectives. •New accessibility features for English Language Learners and other struggling readers, including captioning of all spoken dialogue, pause/play/rewind function for video animations, and text-to-speech support.</Abstract>
+		<AccessModel>Free/open access</AccessModel>
+		<Author>n/a</Author>
+		<PrimaryURL>https://www.mission-us.org/pages/landing-mission-1</PrimaryURL>
+		<PrimaryURLDescription>Landing page for Mission 1: "For Crown or Colony?"</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Unity WebGL (iPad version will be launching in January)</ProgrammingLanguage_Platform>
+		<SecondaryURL>http://mission-us.org</SecondaryURL>
+		<SecondaryURLDescription>Homepage for the Mission US series</SecondaryURLDescription>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Mission US: "For Crown or Colony?" (New Version)</Title>
+		<Year>2018</Year>
+	</Game>
+	<Game ID="14983">
+		<ApplicationNumber>RA-247969-16</ApplicationNumber>
+		<Abstract>Arrangement was a central concept in ancient and early modern atomism, and also to Cavendish's atomistic poetics: each poem is not a stand-alone, self-complete, well-wrought urn, but a kind of tile that can be rearranged into different mosaics of thought. Cavendish undertakes one such rearrangement in her 1664 edition, where the poems appear in a radically new configuration, and with new lines, ideas, and word-choices. The shuffling of the poems across editions, I argue, is not a correction, but an experiment on Cavendish's part, an attempt to think through concepts of arrangement, atomism, and the logic of collection. Her experiment changes how we read her poetry, and, in a larger scale, helps us rethink histories of early reading practices as well as poetry's contributions to atomistic philosophy during the rise of science.</Abstract>
+		<AccessModel>Open source</AccessModel>
+		<Author>Liza Blake</Author>
+		<PrimaryURL>http://philome.la/medrenliza/arranging-cavendishs-atom-poems-twine-experiment/play</PrimaryURL>
+		<PrimaryURLDescription>link to game</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>http://philome.la/medrenliza/arranging-cavendishs-atom-poems-twine-experiment/play</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Arranging Cavendish's Atom Poems: Twine Experiment"</Title>
+		<Year>2019</Year>
+	</Game>
+	<Game ID="15591">
+		<ApplicationNumber>MD-263922-19</ApplicationNumber>
+		<Abstract>This is a brief demo of the game The Anatolian Trail: Roots of the Ancients, which was produced using funds from a Digital Projects for the Public Discovery grant. It is designed to engage a broad audience on the scholarship of Proto-Indo-European and ancient Indo-European (IE) languages and cultures. The game is set in the age of the Indo-Europeans, a prehistoric tribe that split into many of the cultures of Eurasia from the past 5000 years. By battling ancient monsters from IE folklore, gaining blessings from the gods of the IE pantheon, and even conversing with the locals in their native tongue, players will be able to experience first-hand the results of two centuries of scholarship.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Andrew Byrd, Brenna Byrd</Author>
+		<PrimaryURL>https://sites.google.com/view/byrd-byrd-harrison/home</PrimaryURL>
+		<PrimaryURLDescription>This is a website that contains demos for the game, in both PC and Mac. (Currently, the PC demo is more stable than the Mac) It also contains links to videos of gameplay, the script, music, and the game's flowchart.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>C#, Unity/PC &amp;amp; Mac</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>The Anatolian Trail: Roots of the Ancients (demo)</Title>
+		<Year>2019</Year>
+	</Game>
+	<Game ID="15928">
+		<ApplicationNumber>PW-234827-16</ApplicationNumber>
+		<Abstract>This product is a Word Search that depicts the life of John Torrey and major influences on his botanical career. The Word Search features a glossary defining each of the words and how they relate to Torrey's life as well as recruitment information. The Word Search is available in the Mertz Library for all visitors, and copies are also distributed at events  and programs that highlight the transcription project.</Abstract>
+		<AccessModel>Open access, Print</AccessModel>
+		<Author>Richard Jones</Author>
+		<PrimaryURL/>
+		<PrimaryURLDescription>N/A</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>N/A</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription>N/A</SecondaryURLDescription>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Life of Torrey: Word Search</Title>
+		<Year>2019</Year>
+	</Game>
+	<Game ID="17396">
+		<ApplicationNumber>GI-230768-15</ApplicationNumber>
+		<Abstract>Mission US: is an award-winning series of free online educational games designed to increase young people's knowledge of American history. In each game, the player assumes the role of a teen in one period of our nation's past, and navigates an interactive environment to explore key events and diverse perspectives.</Abstract>
+		<AccessModel/>
+		<Author>Sandra Sheppard</Author>
+		<PrimaryURL>https://www.mission-us.org/</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable/>
+		<Title>Mission US</Title>
+		<Year>2015</Year>
+	</Game>
+	<Game ID="17397">
+		<ApplicationNumber>MN-258857-18</ApplicationNumber>
+		<Abstract>A new immersive experience on a pivotal topic: the ratification of the United States Constitution.</Abstract>
+		<AccessModel/>
+		<Author>Kelly Leahy Whitney</Author>
+		<PrimaryURL>https://www.icivics.org/games/race-to-ratify</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable/>
+		<Title>Race to Ratify</Title>
+		<Year>2018</Year>
+	</Game>
+	<Game ID="18114">
+		<ApplicationNumber>MT-263973-19</ApplicationNumber>
+		<Abstract>Resonant is a prototype VR game utilizing our extensive documentation of the Balcony House cliff dwelling at Mesa Verde.</Abstract>
+		<AccessModel>Prototype and not publicly accessible</AccessModel>
+		<Author>CyArk</Author>
+		<PrimaryURL>https://www.dropbox.com/s/byifzns1dwxyccv/Resonant Prototype.apk?dl=0</PrimaryURL>
+		<PrimaryURLDescription>The prototype was produced to be played on an Oculus Quest VR headset. The final prototype executable is an apk file. After downloading the file it can be uploaded to an Oculus Quest to play.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Unity</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://www.dropbox.com/s/mon2e2jgycfsabb/Resonant Prototype Video.mp4?dl=0</SecondaryURL>
+		<SecondaryURLDescription>CyArk created a video walkthrough of the entire experience for those who do not have access to a Oculus Quest VR Headset.</SecondaryURLDescription>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Resonant</Title>
+		<Year>2020</Year>
+	</Game>
+	<Game ID="18343">
+		<ApplicationNumber>ZR-256751-18</ApplicationNumber>
+		<Abstract>Through its underrepresented history program, the National Park Service is developing an interactive story map which will be made available to the public. The map is currently in process.</Abstract>
+		<AccessModel>In process</AccessModel>
+		<Author>National Park Service</Author>
+		<PrimaryURL>https://drive.google.com/drive/folders/1vc-F2IsUscM0qv63-ExHpMth dJPIwYv?usp=sharing</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>NN Cannery Story Map (in progress)</Title>
+		<Year>2021</Year>
+	</Game>
+	<Game ID="18580">
+		<ApplicationNumber>HAA-266501-19</ApplicationNumber>
+		<Abstract>This model includes a recorded version of 'Polichinelle censeur des théâtres' (Denis Carolet, 1737) performed by Jean-Pierre Desrousseaux.  Download all files in 'MonoBleedingEdge' and 'Theatre Marionnettes Demo Data' and then launch 'Theatre Marionettes Demo.exe' The access and documentation to this version of the model will be significantly cleaned up and augmented prior to the next report.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Jean-Pierre Desrousseaux, Paul François</Author>
+		<PrimaryURL>https://uncloud.univ-nantes.fr/index.php/s/2EDonPRijYLfnGJ</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>This model was made in unity, but should be accessible as a self-contained app</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>VESPACE Foire Saint-Germain Marionnette Theatre</Title>
+		<Year>2020</Year>
+	</Game>
+	<Game ID="18975">
+		<ApplicationNumber>MN-268881-20</ApplicationNumber>
+		<Abstract>This project is to produce an augmented reality application for Cahokia Mounds State Historic Site. This experience will enable visitors to see structures, people, and other features of this ancient site through the lens of their smartphone or tablet. There will be extra audio and vision opportunities loaded to the experience as well as a complementary website. The website will include curriculum for school use. Cahokia Mounds State Historic Site is a UNESCO World Heritage and US National Historic Landmark. This project will greatly enhance the visitor's experience and bring awareness of the site.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Jack Kerber</Author>
+		<PrimaryURL>https://cahokiamounds.org/augmented-reality-project/</PrimaryURL>
+		<PrimaryURLDescription>An augmented reality app for the Cahokia Mounds historic site and a complementary websi</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Back to the City of the Sun A/R Experience</Title>
+		<Year>2021</Year>
+	</Game>
+	<Game ID="19657">
+		<ApplicationNumber>MT-268952-20</ApplicationNumber>
+		<Abstract>This is the fully playable, stand-alone game.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Wendi Sierra</Author>
+		<PrimaryURL>https://astrongfire.com/</PrimaryURL>
+		<PrimaryURLDescription>This is the site the game can be played at.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>HTML 5</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>A Strong Fire</Title>
+		<Year>2021</Year>
+	</Game>
+	<Game ID="19745">
+		<ApplicationNumber>MT-277003-21</ApplicationNumber>
+		<Abstract>The Grand Rapids Public Museum (GRPM) has created a prototype of a web-based mobile game called River of Time that will encourage thousands of participants to explore the Grand River Watershed and interact with high quality humanities content at landmarks around the region. The scalable prototype was built using open-source Casual OS software and has informed the development of the Public OS platform to allow the GRPM and other organizations to deliver curated information, digital collections, and engaging, interactive experiences at historically and culturally significant real world locations. Because the game prototype will run in a web-browser, anyone will be able to access it for free using their own device. This prototype platform will lay the foundation for even broader community engagement that directly ties the human experience of exploring your place to museum-quality content.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Yeti CGI, Grand Rapids Public Museum</Author>
+		<PrimaryURL>https://grpm.org/digital/riveroftime</PrimaryURL>
+		<PrimaryURLDescription>Landing Page for the River of Time ambient user experience. Visitors use their physical location and their smart device to explore the history and culture of the Grand River region as told by the artifacts they collect along the way. Each artifact contains a piece of the River of Time story and an experience that helps connect the user directly to the wonderful materials and information crafted through partnerships with local experts and humanities scholars.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Web, JS (PublicOS)</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://casualos.com/?auxCode=riverOfTime dev&amp;amp;dev=true</SecondaryURL>
+		<SecondaryURLDescription>Active development branch of River of Time.</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>River of Time</Title>
+		<Year>2022</Year>
+	</Game>
+	<Game ID="19770">
+		<ApplicationNumber>MN-268921-20</ApplicationNumber>
+		<Abstract>The completed project, The May 4 Augmented Reality Experience, was created to allow users from any location to view the events of May 4, 1970 in the frame of the present through the lens of augmented reality. (Accessible at https://may4thxr.kent.edu/index.html). The experience is designed to  immerse and engage users as they journey through the events of May 4, 1970. As the tour is initiated, participants follow a trail through the National Historic Landmark site that chronicles the events of May 4 using augmented reality (AR) hotspots along the path that transport users to that fateful day via the use of images overlaid on present day imagery as well as audio from the time period. Users effectively view the events from the same physical space and time through pictorial and aural historic place restoration. Each hotspot focuses on an important aspect of the events surrounding the shootings and offers additional media and links to enhance and engage the user in the underlying humanities themes through different perspectives and viewpoints.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Richard Ferdig, Robert Clements, CC Lu, Enrico Gandolfi, Annette Kratcoski, Chris Lenart</Author>
+		<PrimaryURL>https://may4thxr.kent.edu</PrimaryURL>
+		<PrimaryURLDescription>Link for the main May 4th AR and VR tour.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL>http://glare.cs.kent.edu</SecondaryURL>
+		<SecondaryURLDescription>Link for the GLARE open access editor.</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>May 4th Augmented and Virtual Reality Tour</Title>
+		<Year>2021</Year>
+	</Game>
+	<Game ID="19966">
+		<ApplicationNumber>BR-264610-19</ApplicationNumber>
+		<Abstract>Free &amp;amp; Equal: The Promise of Reconstruction in America is an online educational project and mobile app. It tells the story of the Rehearsal for Reconstruction, a largely forgotten place and time in history that played a critical role in defining freedom and equality for African Americans during and after the Civil War.  When and where did the Civil Rights movement begin in the United States? "Free and Equal" is an immersive audio and augmented reality drive through Beaufort, South Carolina where America's "First Civil Rights movement" began during the Civil War. Here 8,000 former slaves were given unparalleled arms, education, land, and political power in what became known as the Port Royal Experiment. Step into this experiment through the eyes of one Black soldier and uncover the roots of today's struggle for Black civil rights. To take the tour you will need headphones, a car, good walking shoes, and a fully charged phone. You can take the tour remotely but it's more engaging when done in the National Reconstruction Era Historic Park.</Abstract>
+		<AccessModel>it is free through the Apple, Google Play, and Android app stores</AccessModel>
+		<Author>Walking Cinema</Author>
+		<PrimaryURL>http://freeandequalproject.com</PrimaryURL>
+		<PrimaryURLDescription>the accompanying website is still under construction</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Free and Equal Mobile app</Title>
+		<Year>2021</Year>
+	</Game>
+	<Game ID="20544">
+		<ApplicationNumber>GA-253035-16</ApplicationNumber>
+		<Abstract>NYC Grand Prize Winner, 2017 G4C Student Challenge</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>The 30th Avenue School</Author>
+		<PrimaryURL>https://scratch.mit.edu/projects/148835644/</PrimaryURL>
+		<PrimaryURLDescription>Adventures in New York</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Scratch</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://gamesforchange.org/studentchallenge/2017-winners/</SecondaryURL>
+		<SecondaryURLDescription>2017 Student Challenge Winners</SecondaryURLDescription>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Adventures in New York</Title>
+		<Year>2017</Year>
+	</Game>
+	<Game ID="20545">
+		<ApplicationNumber>GA-253035-16</ApplicationNumber>
+		<Abstract>NYC Local Stories &amp;amp; Immigrant Voices theme winner, 2017 Student Challenge</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Brooklyn Generation High School, New York</Author>
+		<PrimaryURL>http://sia.urbanarts.org/MervinGame/index.html</PrimaryURL>
+		<PrimaryURLDescription>Through the Eyes of the Beholder</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Unity</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://gamesforchange.org/studentchallenge/2017-winners/</SecondaryURL>
+		<SecondaryURLDescription>2017 Games for Change Student Challenge Awards</SecondaryURLDescription>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Through The Eyes of the Beholder</Title>
+		<Year>2017</Year>
+	</Game>
+	<Game ID="20684">
+		<ApplicationNumber>GA-253035-16</ApplicationNumber>
+		<Abstract>2017 G4C Student Challenge-Dallas Local Stories and Immigrant Voices Winning Game</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Raul Sr Quintanilla Middle School</Author>
+		<PrimaryURL>https://scratch.mit.edu/projects/151464389</PrimaryURL>
+		<PrimaryURLDescription>Immigration Simulator</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Scratch</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://gamesforchange.org/studentchallenge/2017-winners/</SecondaryURL>
+		<SecondaryURLDescription>2017 Games for Change Student Challenge winning games</SecondaryURLDescription>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Immigration Simulator</Title>
+		<Year>2017</Year>
+	</Game>
+	<Game ID="20685">
+		<ApplicationNumber>GA-253035-16</ApplicationNumber>
+		<Abstract>2017 Games for Change Student Challenge - Dallas Local Stories and Immigrant Voices theme winner</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Skyline High School</Author>
+		<PrimaryURL>https://gamestarmechanic.com/game/shared/403430/b9314e487dcad496f4f564d225d049de</PrimaryURL>
+		<PrimaryURLDescription>New Home</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Gamestar Mechanic</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://gamesforchange.org/studentchallenge/2017-winners/</SecondaryURL>
+		<SecondaryURLDescription>2017 Games for Change Student Challenge Winners</SecondaryURLDescription>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>New Home</Title>
+		<Year>2017</Year>
+	</Game>
+	<Game ID="20686">
+		<ApplicationNumber>GA-253035-16</ApplicationNumber>
+		<Abstract>2017 Games for Change Student Challenge - Pittsburgh Local Stories and Immigrant Voices winning game</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Cornell School District</Author>
+		<PrimaryURL>https://scratch.mit.edu/projects/146452340/#player</PrimaryURL>
+		<PrimaryURLDescription>Beyond the Borders</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Scratch</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://gamesforchange.org/studentchallenge/2017-winners/</SecondaryURL>
+		<SecondaryURLDescription>2017 Games for Change Student Challenge Winners</SecondaryURLDescription>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Beyond the Borders</Title>
+		<Year>2017</Year>
+	</Game>
+	<Game ID="20687">
+		<ApplicationNumber>GA-253035-16</ApplicationNumber>
+		<Abstract>2017 Games for Change Student Challenge - Pittsburgh Local Stories and Immigrant Voices winning game</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Trinity Area School District</Author>
+		<PrimaryURL>https://scratch.mit.edu/projects/153497268/#player</PrimaryURL>
+		<PrimaryURLDescription>Reflections: Generations of the Past</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Scratch</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://gamesforchange.org/studentchallenge/2017-winners/</SecondaryURL>
+		<SecondaryURLDescription>2017 Games for Change Student Challenge Winners</SecondaryURLDescription>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Reflections: Generations of the Past</Title>
+		<Year>2017</Year>
+	</Game>
+	<Game ID="20906">
+		<ApplicationNumber>SO-268667-20</ApplicationNumber>
+		<Abstract>Connectivities is like a Children's Museum in a box! It contains activities designed to launch creativity, spark joy, and foster meaningful relationships between adults and the special children in their lives.</Abstract>
+		<AccessModel>subscription only</AccessModel>
+		<Author>Children's Museum of South Dakota staff</Author>
+		<PrimaryURL>https://prairieplay.org/connectivities/</PrimaryURL>
+		<PrimaryURLDescription>This URL leads to a landing page explaining the Connectivities program and allowing users to order two available Connectivities Boxes geared toward children aged 6 and above: “Reaching Out” and “Storytelling.”</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>N/A</ProgrammingLanguage_Platform>
+		<SecondaryURL>N/A</SecondaryURL>
+		<SecondaryURLDescription>N/A</SecondaryURLDescription>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Children's Museum SD: Connectivities</Title>
+		<Year>2020</Year>
+	</Game>
+	<Game ID="21275">
+		<ApplicationNumber>BH-267178-19</ApplicationNumber>
+		<Abstract>This virtual excavation simulates an archaeological investigation of Mount Independence, Vermont. It is based on real fieldwork conducted on the site. This virtual excavation platform is meant to be used as an educational tool along with the three video series, "Thinking like an Archaeologist" and an artifact catalog template spreadsheet. Participants are assigned to one of four excavation teams, identified by four different colored icons. Each three-person team "excavates" 9 test units total (3 test units each) and records their finds in their artifact catalog. The experience concludes with a guided facilitation in which the team members compare notes, identify patterns and anomalies in their catalogs, and prepare a short presentation on their findings with regard to their research questions. After each team presents their findings, the facilitator shares with the teams the interpretations made by professional archaeologists.   360 degree photos were taken on location by Peregrine Productions</Abstract>
+		<AccessModel>public link available by invitation</AccessModel>
+		<Author>Angela Labrador</Author>
+		<PrimaryURL>https://www.thinglink.com/card/1459937806599061505</PrimaryURL>
+		<PrimaryURLDescription>Link to excavation on ThingLink</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>ThingLink</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Virtual Excavation of Mount Independence</Title>
+		<Year>2021</Year>
+	</Game>
+	<Game ID="21712">
+		<ApplicationNumber>PW-259002-18</ApplicationNumber>
+		<Abstract>Plimoth Patuxet Museums has reimagined and redesigned "You Are the Historian: Investigating the First Thanksgiving", its popular interactive game that has entertained school-aged children and families since 2002! In conjunction with FableVision Studios, a multimedia production company, and an Indigenous Advisory Committee, Plimoth Patuxet Museums has created a new online game that explores Wampanoag life prior to European settlement and the year leading up to the 1621 harvest feast, today known as the "First Thanksgiving." The game investigates the interactions between the Wampanoag people of Patuxet and the earliest colonists known as the Pilgrims by exposing players to archaeological artifacts from the museum's collections, primary source documents, and oral stories told from generation to generation.  "You Are The Historian" directly responds to the increased demand for nuanced and fact-based history told from both an Indigenous and Colonial perspective. The Museum has created an experience that will transport visitors to Patuxet, the pre-European homeland of the Wampanoag, and immerse them in a story of cultural change and persistence that spans 12,000 years. Students will be able to further explore the rich historical context of the Indigenous and Colonial experiences during their earliest encounters through magical time travel, an anonymous tipster, mysterious riddles, historic artifacts and archives, and plain, old-fashioned smart thinking!</Abstract>
+		<AccessModel>web access</AccessModel>
+		<Author>Plimoth Patuxet Museums</Author>
+		<PrimaryURL>https://plimoth.org/for-students/you-are-the-historian</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>You Are the Historian</Title>
+		<Year>2020</Year>
+	</Game>
+	<Game ID="21785">
+		<ApplicationNumber>MN-277099-21</ApplicationNumber>
+		<Abstract>The Virtual Explorer is a smartphone application designed to provide a remote visitor experience for those who cannot visit the National World War I Memorial in person. Users can take a virtual field trip to the Memorial from the comfort of their own home, school, or other remote location using VR technology to ‘place' a scale model of the entire 1.8-acre Memorial around them. Once placed, the user can walk around and explore the site as if they were at the Memorial itself. The virtual site is filled with features including 3D stories and 51 videos integrated into the virtual space.  The app offers access to the "How WWI Changed America" educational resources and to World War I Virtual Remembrances.   "How WWI Changed America" allows users to view 51 short videos covering social aspects of World War I and how the War that Changed the World transformed every aspect of American life. The videos feature prominent World War I historians, archival footage, period photos and newspaper headlines to explore subjects such as Native Americans in WWI, Citizenship in WWI, or the Homefront.   Virtual Remembrances allow users to explore hundreds of Stories of Service -- stories about World War I veterans, nurses, ambulance drivers, Red Cross volunteers, local heroes and even about the users' own ancestors previously submitted to The Doughboy Foundation. These stories are turned into profiles with pictures, text, and speech that can be read or listened to by users</Abstract>
+		<AccessModel>Available for free download from Google Play and the Apple App Store</AccessModel>
+		<Author>The Doughboy Foundation</Author>
+		<PrimaryURL>https://doughboy.org/apps</PrimaryURL>
+		<PrimaryURLDescription>Webpage on The Doughboy Foundation's website explaining the app and directing users to the appropriate app stores for download.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Unreal Engine 4</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Virtual Explorer</Title>
+		<Year>2021</Year>
+	</Game>
+	<Game ID="21787">
+		<ApplicationNumber>MN-277099-21</ApplicationNumber>
+		<Abstract>The Visitor Guide is a smartphone application for onsite visitors to the National World War I Memorial in Washington, DC. With the app's augmented reality technology, users can interact with and explore features around the park, and can access educational and commemorative materials.  Educationally, the app allows visitors to learn more about the history of the war through 51 short (1 to 5 minutes) documentary vignettes about the American experience in the war presented by prominent WWI historians,  as well as fully-rendered scale models of iconic WWI vehicles and a fully-rendered and populated 3D timeline of the war's major milestones.   In terms of commemoration, the Visitor Guide allows users to access individual stories of service members, drawing from a large archive of previously submitted "Stories of Service." This feature gives visitors the opportunity for a unique and personalized experience. If they have previously submitted a story of their ancestor, the app can create a virtual plinth with said story on it -- visitors can read about their ancestor in the very park honoring their service. And, if they have not previously submitted a story, the app allows them to do so.</Abstract>
+		<AccessModel>Available for free download from Google Play and the Apple App Store</AccessModel>
+		<Author>The Doughboy Foundation</Author>
+		<PrimaryURL>https://doughboy.org/apps</PrimaryURL>
+		<PrimaryURLDescription>Webpage on The Doughboy Foundation's website explaining the app and directing users to the appropriate app stores for download.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Unreal Engine 4</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Visitor Guide</Title>
+		<Year>2021</Year>
+	</Game>
+	<Game ID="22357">
+		<ApplicationNumber>GE-280587-21</ApplicationNumber>
+		<Abstract>The Charles Price Virtual Reality Streetscape is an interpretive, interactive experience designed to give you a sense of the vibrancy of the Clarissa Street neighborhood as it existed before Urban Renewal. The experience is named in tribute to Charles Price (1923-2021), Rochester's first Black police officer, who wanted to create a way to see beyond the current landscape and look around old Clarissa Street.  INSTRUCTIONS:  Viewable in 3D Oculus VR headset or on any smartphone.  As the user turns their view, you can follow along with the narrators via the animated cues that pop up.</Abstract>
+		<AccessModel>Open access via TeenEmpowerentTV YouTube channel</AccessModel>
+		<Author>Youth History Ambassadors, artists, RIT faculty and students (listed on YouTube 360 description)</Author>
+		<PrimaryURL>https://youtu.be/2FfxwO27rIk</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Charles Price Virtual Reality Streetscape</Title>
+		<Year>2022</Year>
+	</Game>
+	<Game ID="22386">
+		<ApplicationNumber>MD-277132-21</ApplicationNumber>
+		<Abstract>Welcome to Shifting Landscapes: Labor and Mobility in New Orleans. This virtual tour provides a lens into how the built environment may have been experienced by the enslaved people who lived and labored at the Gallier Historic House between its completion in 1860 and the end of the Civil War in 1865. In particular, the tour follows the day-to-day life of Laurette, ladies' maid and nursemaid to the Gallier family.</Abstract>
+		<AccessModel>The virtual tour is open access, available free to the public on our website.</AccessModel>
+		<Author>Hermann-Grima + Gallier Historic Houses, Dr. Fallon Aidoo, Ms. Katherine Burlison, Dr. Bryan Carter, Dr. Clifton Ellis, Dr. Walter D. Greason, Dr. Erin M. Greenwald, Dr. Leslie Harris, Mr. Brandon Hull, Ms. Tessa Jagger, Dr. Amy Katherine Medvick, Dr. Louis P. Nelson, Dr. Anastacia Scott, Dr. Arijit Sen, Ms. Brook Tesler, Dr. Dell Upton, Mr. Leon A. Waters</Author>
+		<PrimaryURL>https://hullfilm360.com/projects/gallierhouse/virtualtour/</PrimaryURL>
+		<PrimaryURLDescription>This URL is for the starting point of the Shifting Landscapes virtual tour. It leads to a splash page with the HGGHH and NEH logos, followed by a view of the front of the Gallier Historic House.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL>https://hgghh.org/gallier-virtual-tour</SecondaryURL>
+		<SecondaryURLDescription>This URL links to the introductory page for the Shifting Landscapes virtual tour on the hgghh.org website. The page includes a description of the tour, a link to access the tour, an overview of projected plans to expand the tour, a link to a feedback survey, credits and funding acknowledgements.</SecondaryURLDescription>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Shifting Landscapes: Labor and Mobility in New Orleans</Title>
+		<Year>2022</Year>
+	</Game>
+	<Game ID="22950">
+		<ApplicationNumber>EH-272535-20</ApplicationNumber>
+		<Abstract>This is a role-playing game for the classroom.  "The Challenge and Inequality of Care," Microgame Version is an educational, live action role-playing game about informal (unpaid) caregiving in the United States. It takes about 2.5 hours to set up, play, and debrief. (This time can be divided over multiple sessions.) The game challenges players to try to keep their jobs and their health while meeting their caregiving challenges.</Abstract>
+		<AccessModel>available for classroom use through Prof. Levy</AccessModel>
+		<Author>Traci Levy</Author>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>The Challenge and Inequality of Care</Title>
+		<Year>2022</Year>
+	</Game>
+	<Game ID="22970">
+		<ApplicationNumber>FEL-282998-22</ApplicationNumber>
+		<Abstract>The current VR software (Dig@IT) is able to display stratified layers of excavation, and users can fly around the virtual environment to explore different parts of the scene. In this project, we propose to extend Dig@IT, particularly incorporating remote sensing data captured using different techniques. For example, laser-based remote sensing generates volumetric datasets, with several meters of depth. We will design an immersive visualization tool to allow users to slice through the volumetric data, in order to explore the environment as it would have existed in different points in time. We will also incorporate, as has been done in the current iteration of Dig@IT, reconstructed models, but this time leveraging predictive modeling gathered from non-invasive remote sensing.  The goal of the proposed extension to Dig@IT is to provide a seamless integration of reconstructed landscape and architecture gathered from remote sensing with the exact data models stemming from the excavation site. Ultimately, the user will wander through virtually reconstructed ancient cities and be able to explore current excavation sites as well as a simulated interpretation of what unexcavated areas would have been, based on predictive modeling gathered from remote sensing.</Abstract>
+		<AccessModel>currently the tool is available only for the Duke community by lab subscription</AccessModel>
+		<Author>Maurizio Forte</Author>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Unity 3D</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>DIG@IT</Title>
+		<Year>2022</Year>
+	</Game>
+	<Game ID="24154">
+		<ApplicationNumber>MT-284693-22</ApplicationNumber>
+		<Abstract>This new prototype from the Shakespeare-VR Project at Carnegie Mellon University simulates the experience of performing Shakespearean drama in an immersive, historically accurate simulation of the indoor theater used by Shakespeare's company. See Shx-VR.com for lesson plans, etc.</Abstract>
+		<AccessModel>https://sidequestvr.com/app/10887/sweet-sorrow-romeo-juliet-in-virtual-reality</AccessModel>
+		<Author>Stephen Wittek</Author>
+		<PrimaryURL>https://sidequestvr.com/app/10887/sweet-sorrow-romeo-juliet-in-virtual-reality</PrimaryURL>
+		<PrimaryURLDescription>SideQuest (virtual reality platform)</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Sweet Sorrow</Title>
+		<Year>2022</Year>
+	</Game>
+</Games>

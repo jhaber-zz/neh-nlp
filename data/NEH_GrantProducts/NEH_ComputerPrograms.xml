@@ -1,0 +1,1679 @@
+<ComputerPrograms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NEH_ComputerPrograms.xsd">
+	<ComputerProgram ID="339">
+		<ApplicationNumber>HD-51153-10</ApplicationNumber>
+		<Abstract>The historic newspapers of the NYPL have been scanned from microfilm producing OCR text, XML metadata and images. We developed a tool to visualize and read articles in the newspaper scanning multiple pages, extract the text from the articles, obtain a bag-of-words representation and use it for further sophisticated text analysis.</Abstract>
+		<AccessModel/>
+		<Author>Austin Lee</Author>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Java</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>A Tool for Visualizing and Reading Historic Newspaper Articles of NYPL</Title>
+		<Year>2010</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="347">
+		<ApplicationNumber>HD-50927-10</ApplicationNumber>
+		<Abstract>Scripto is a lightweight, open source tool that allows users to contribute transcriptions to online documentary projects.  The tool includes a versioning history and full set of editorial controls, so that project staff can manage public contributions.</Abstract>
+		<AccessModel>GPL 3.0</AccessModel>
+		<Author>Roy Rosenzweig Center for History and New Media</Author>
+		<PrimaryURL>http://scripto.org</PrimaryURL>
+		<PrimaryURLDescription>The main website for the tool.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>PHP, Zend framework</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://github.com/chnm/Scripto</SecondaryURL>
+		<SecondaryURLDescription>The code for the tool is available for download and modification via Github.</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Scripto</Title>
+		<Year>2011</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="1333">
+		<ApplicationNumber>HD-51244-11</ApplicationNumber>
+		<Abstract>WordSeer is an exploratory text analysis environment for literature study. It is currently available for three collections of text, and will become generally available in late 2012.</Abstract>
+		<AccessModel>Open source</AccessModel>
+		<Author>Aditi Muralidharan, Marti A. Hearst, Bryan Wagner</Author>
+		<PrimaryURL>http://wordseer.berkeley.edu</PrimaryURL>
+		<PrimaryURLDescription>UC Berkeley web application</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>WordSeer</Title>
+		<Year>2011</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="2041">
+		<ApplicationNumber>HD-50822-09</ApplicationNumber>
+		<Abstract>The ability to reuse tools across projects is an increasingly important feature of many digital humanities efforts.  Researchers using the Text Encoding Initiative (TEI) guidelines have traditionally published to the web using processes such as XSLT transformations, which are intended to reproduce a work as an enhanced digital surrogate using HTML, PDF, or another publication format.  Processes such as these often contain the complete pipeline of logic that produces a publishable product, whether the product is a document, a data set, or visualizations.  Other approaches to scholarly software design offer opportunities to enhance the reusability of scholarly software tools by breaking apart these processing pipelines into smaller, more general-purpose chunks and providing an environment to blend and align tools from different domains.  To test this approach, the Brown University Library's Center for Digital Scholarship (CDS) and the Brown University Women Writers Project (WWP) have developed a prototype suite of software tools to explore TEI encoded texts in the Software Environment for the Advancement of Scholarly Research (SEASR).</Abstract>
+		<AccessModel>Open source</AccessModel>
+		<Author>Andrew Ashton, Michael Della Bitta</Author>
+		<PrimaryURL>http://repository.library.brown.edu:8080/fedora/objects/bdr:11456/datastreams/ZIP/content</PrimaryURL>
+		<PrimaryURLDescription>TEI components in the Brown Digital Repository</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Java</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://github.com/Brown-University-Library/TEI-Components-for-SEASR</SecondaryURL>
+		<SecondaryURLDescription>TEI components in GitHub</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>TEI components for SEASR</Title>
+		<Year>2012</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="2342">
+		<ApplicationNumber>HD-51128-10</ApplicationNumber>
+		<Abstract>Noise correction spellchecker tool, which relies on the lexical information from the clean digitized edition of Britannica (Edition&amp;#x0D; 15) in order to suggest corrections of commonly misspelled words. The tool runs over frequency dictionaries compiled from different editions. The list of corrections proposed by the tool is compiled&amp;#x0D; by using an algorithm similar to such iterative methods of parameter estimation as the expectation maximization (EM) algorithm in statistics.&amp;#x0D; </Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Matthew Digman</Author>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Perl</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Noise Correction Spellchecker Tool</Title>
+		<Year>2013</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="2375">
+		<ApplicationNumber>HD-51214-11</ApplicationNumber>
+		<Abstract>Digital Epigraphy Toolbox is a novel and technologically advanced scientific tool for the effective study and comparative analysis of Greek and Latin inscriptions. It provides archaeologists and epigraphists with a cost-effective and efficient method for 3D digitization of inscriptions based on squeezes, as well as access to an online dynamic library of 3D inscriptions.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Angelos Barmpoutis, Eleni Bozia, Robert S. Wagman</Author>
+		<PrimaryURL>http://www.digitalepigraphy.org/toolbox</PrimaryURL>
+		<PrimaryURLDescription>System requirements: The software runs on most major operating systems: Windows, Mac, Linux, and Solaris. Java must be installed. Internet connection is required.
+
+Features: On-line database of 3D inscriptions, 3D rotation, change lighting orientation, zoom in/out, thematic browsing, keyword search, connection with other existing on-line libraries, dynamic and open editing of the epigraphic records by the research community, and many other features. </PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Client: Java
+Server: PhP, mySQL</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Digital Epigraphy Toolbox</Title>
+		<Year>2012</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="2475">
+		<ApplicationNumber>HD-51475-11</ApplicationNumber>
+		<Abstract>Massive Pixel Environment is a library for extending Processing sketches to multi-node tiled displays. This library makes it possible to render interactive Processing sketches across distributed computing systems on many displays. It is intended for tiled display systems, but works in many other types of environments. With simple modifications, a sketch can be rendered across a cluster at the native resolution of the displays, and can greatly increase the amount of data that can be visualized at one time. This library is intended to run on Linux and OSX-based clusters.&amp;#x0D; &amp;#x0D; This library is developed from scratch at the TACC/ACES Visualization Lab with inspiration from Most Pixels Ever, developed by Daniel Shiffman.&amp;#x0D; &amp;#x0D; This work was made possible by funding from the National Endowment for the Humanities (NEH) Grant: HD-51475-11, A Thousand Words: Advanced Visualization for the Humanities.</Abstract>
+		<AccessModel>Free and open source</AccessModel>
+		<Author>Brandt Westing, Rob Turknett</Author>
+		<PrimaryURL>http://tacc.github.io/MassivePixelEnvironment/</PrimaryURL>
+		<PrimaryURLDescription>The main web page for the Massive Pixel Environment software library, which describes the software and links to the GitHub page containing the source code and documentation.&amp;#x0D;
+&amp;#x0D;
+&amp;#x0D;
+</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Processing (Java) / Mac OSX, Windows, Linux&amp;#x0D;
+</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://github.com/TACC/MassivePixelEnvironment</SecondaryURL>
+		<SecondaryURLDescription>The GitHub page hosting the Massive Pixel Environment library for the Processing programming language. The GitHub page contains source code, documentation, and examples for using the library to render interactive Processing sketches across distributed computing systems on many displays, and a link to download the package.</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Massive Pixel Environment (MPE)</Title>
+		<Year>2012</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="3679">
+		<ApplicationNumber>HD-51670-13</ApplicationNumber>
+		<Abstract>This software is the WARCreate Firefox add-on</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Mat Kelly</Author>
+		<PrimaryURL>https://github.com/machawk1/ffwarcreate</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>JavaScript</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>WARCreate Firefox Add-on</Title>
+		<Year>2013</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="3733">
+		<ApplicationNumber>HD-50106-07</ApplicationNumber>
+		<Abstract>We have completed a 3d reproduction of the interior and exterior of the slave fort at Elmina in present day Ghana that can be explored on a computer or in 3D using Oculus Rift glasses.  &amp;#x0D; </Abstract>
+		<AccessModel>Requires computer running Unity Pro.  </AccessModel>
+		<Author>Magda ElZarki, Patricia Seed</Author>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Unity </ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>The Slave Fort at Elmina:  a 3D reconstruction</Title>
+		<Year>2015</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="3761">
+		<ApplicationNumber>HD-50300-08</ApplicationNumber>
+		<Abstract>The rapid digitization of texts presents both new opportunities and real barriers of entry to computer-assisted explorations of texts. The Lexos software developed by the Lexomics Project provides a simple, web-based workflow for text processing, statistical analysis, and visualization designed to address these barriers. The project supports Lexos' core strength as an entry-level tool while seeking to position it as an innovative intervention in Digital Humanities conversations about the interplay of machine learning and text analysis.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Mark D. LeBlanc</Author>
+		<PrimaryURL>http://lexos.wheatoncollege.edu</PrimaryURL>
+		<PrimaryURLDescription>A simple, web-based workflow for text processing, statistical analysis, and visualization.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Python</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Lexos</Title>
+		<Year>2012</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="14160">
+		<ApplicationNumber>PR-253386-17</ApplicationNumber>
+		<Abstract>Takes text found by text recognition software and extracts/</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Chiang, Yao-Yi, Lin, Hao Wen</Author>
+		<PrimaryURL>https://github.com/spatial-computing/connecting-map-labels</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Source Code for the Publication Automatic Extraction of Phrase-level Map Labels from Historical Maps:</Title>
+		<Year>2018</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="3933">
+		<ApplicationNumber>HK-50021-12</ApplicationNumber>
+		<Abstract>Metadata Games is a Free and Open Source Software (FOSS), crowdsourcing gaming platform that consists of two web applications, a "Content" (mg-content) and "Game" (mg-game) app. Both are written in php, javascript, and html5. Both web applications are designed to be installed on a LAMP (linux, apache, mysql, php) stack web server typically used at most web hosting services. The Metadata Games Game App includes a prototype NLP framework (a bootstrapped python server) for filtering tag submissions during gameplay and afterwards. The Metadata Games platform is designed such that multiple Content Apps connect to a central Game App.&amp;#x0D; &amp;#x0D; The Game App stores and manages the games, registered player profiles, and submitted tags. The Game App also includes a basic, publicly accessible Search page for finding and viewing media supplied by participating Institutions (via their Content App). On the Search page, one can do keyword search for media and filter by institution, collection, or media type.  The code for the games reside on the Metadata Games Game App. For each game, the Game App handles what media to pull from the Content Apps for gameplay and game data, such as game states (e.g., information about whose turn it is, which round the game is currently in, etc.) and tags submitted by players.&amp;#x0D; &amp;#x0D; </Abstract>
+		<AccessModel/>
+		<Author>Tiltfactor</Author>
+		<PrimaryURL>https://github.com/tiltfactor/mg-game</PrimaryURL>
+		<PrimaryURLDescription>source code for mg-game</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Web application. &amp;#x0D;
+&amp;#x0D;
+Written in php, javascript, and html5. &amp;#x0D;
+&amp;#x0D;
+Both web applications are designed to be installed on a LAMP (linux, apache, mysql, php) stack web server typically used at most web hosting services. &amp;#x0D;
+&amp;#x0D;
+NLP framework is a bootstrapped python server. </ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Metadata Games - Game Web Application (mg-game)</Title>
+		<Year>2012</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="3934">
+		<ApplicationNumber>HK-50021-12</ApplicationNumber>
+		<Abstract>Metadata Games is a Free and Open Source Software (FOSS), crowdsourcing gaming platform that consists of two web applications, a "Content" (mg-content) and "Game" (mg-game) app. Both are written in php, javascript, and html5. Both web applications are designed to be installed on a LAMP (linux, apache, mysql, php) stack web server typically used at most web hosting services. The Metadata Games Game App includes a prototype NLP framework (a bootstrapped python server) for filtering tag submissions during gameplay and afterwards. The Metadata Games platform is designed such that multiple Content Apps connect to a central Game App.&amp;#x0D; &amp;#x0D; The Metadata Games Content App is what Institutions install onto their servers to store and handle any media they want to use with a Metadata Games install. This includes importing media (images, audio, and video), as well as defining and editing media collections, collection licensing terms, and institution descriptions. Thus, institutions, via their Content App, have full control over the media they choose to release for tagging by players of the Metadata Games suite.</Abstract>
+		<AccessModel/>
+		<Author>Tiltfactor</Author>
+		<PrimaryURL>https://github.com/tiltfactor/mg-content</PrimaryURL>
+		<PrimaryURLDescription>source code for mg-content</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Web application. &amp;#x0D;
+&amp;#x0D;
+Written in php, javascript, and html5. &amp;#x0D;
+&amp;#x0D;
+Both web applications are designed to be installed on a LAMP (linux, apache, mysql, php) stack web server typically used at most web hosting services. &amp;#x0D;
+&amp;#x0D;
+NLP framework is a bootstrapped python server. </ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Metadata Games - Content Web Application (mg-content)</Title>
+		<Year>2012</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="4714">
+		<ApplicationNumber>HD-228732-15</ApplicationNumber>
+		<Abstract>Lexos is an integrated workflow of tools to facilitate the computational analyses of texts, presented in a web-based interface. Functionality provided includes the ability to "scrub" texts (remove punctuation, lemmatize, consolidate characters, remove stopwords, etc), cut or segment texts, and a suite of options for analysis and visualizations, including creating and downloading Document Term Matrices (DTM) of token counts (both word- and character-ngrams or tf-idf); cluster analysis (hierarchical or k-means, with silhouette scores); rolling-window analyses of substring, word, or regex-pattern occurrences; bubble visualizations (of term frequencies); and word clouds (of term frequencies or MALLET-produced topic modelling results). More functionality is being added on an ongoing basis.</Abstract>
+		<AccessModel/>
+		<Author>LeBlanc, M.D., Kleinman, Scott</Author>
+		<PrimaryURL>https://github.com/WheatonCS/Lexos</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Python and (Javascript, HTML/CSS)&amp;#x0D;
+&amp;#x0D;
+Runs in your browser via the web and/or local installations for MacOS, Windows, and Linux.</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Lexos: a workflow for text analysis</Title>
+		<Year>2015</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="4744">
+		<ApplicationNumber>HK-50181-14</ApplicationNumber>
+		<Abstract>Web Archiving Integration Layer (WAIL) is a graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Mat Kelly</Author>
+		<PrimaryURL>http://matkelly.com/wail/</PrimaryURL>
+		<PrimaryURLDescription>Main webpage</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Python, JavaScript</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://github.com/machawk1/wail</SecondaryURL>
+		<SecondaryURLDescription>GitHub - source code</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>WAIL (Web Archiving Integration Layer)</Title>
+		<Year>2013</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="4745">
+		<ApplicationNumber>HK-50181-14</ApplicationNumber>
+		<Abstract>WARCreate is a Google Chrome extension that allows a user to create a Web ARChive (WARC) file from any browseable webpage. The resulting files can then be used with other tools like the Internet Archive's open source Wayback Machine. The tool is an evolving product with the end result pushing toward being a personal web archiving solution for those that wish to securely archive their metadata in a standardize way.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Mat Kelly</Author>
+		<PrimaryURL>http://warcreate.com</PrimaryURL>
+		<PrimaryURLDescription>Main webpage</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>JavaScript</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://github.com/machawk1/warcreate</SecondaryURL>
+		<SecondaryURLDescription>Github - source code</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>WARCreate Google Chrome extension</Title>
+		<Year>2012</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="4746">
+		<ApplicationNumber>HK-50181-14</ApplicationNumber>
+		<Abstract>Mink is a Google Chrome extension to indicate that a page a user is viewing on the live web has an archived copy and to give the user access to the copy. If no copies exist, the extension provides one-button access to preserve the page in a select set of web archives and to easily view the page once it has been preserved.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Mat Kelly</Author>
+		<PrimaryURL>https://github.com/machawk1/Mink</PrimaryURL>
+		<PrimaryURLDescription>Github - source code</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>JavaScript</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://chrome.google.com/webstore/detail/mink/jemoalkmipibchioofomhkgimhofbbem</SecondaryURL>
+		<SecondaryURLDescription>Chrome Web Store download link</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Mink Google Chrome extension</Title>
+		<Year>2013</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="4892">
+		<ApplicationNumber>PW-51290-13</ApplicationNumber>
+		<Abstract>ATLMaps is a collaboration between Georgia State University and Emory University. The project is in active and heavy development.&amp;#x0D; &amp;#x0D; The ATLmaps project combines archival maps, geospatial data visualization, and user contributed multimedia location pinpoints to promote investigation into any number of issues about Atlanta. This innovative online platform will allow users to layer an increasing number of interdisciplinary data to address the complex issues that cities pose. The project looks to offer a framework that incorporates storytelling reliant on the geospatial data and for normalizing input across a range of data sets about Atlanta so that material can be cross-compared in novel ways, allowing users to make connections between data sources and ask questions that would not be apparent when only looking at one particular project. The ATLmaps project will also encourage knowledgeable members of the university and local communities to curate data on the site to demonstrate the possibilities for synthesizing material across projects and data types.&amp;#x0D; </Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Jay Varner</Author>
+		<PrimaryURL>https://atlmaps.com/</PrimaryURL>
+		<PrimaryURLDescription>link to ATLMaps beta platform</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Leaflet</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>ATLMaps</Title>
+		<Year>2014</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="5117">
+		<ApplicationNumber>HT-50092-14</ApplicationNumber>
+		<Abstract>Basu (Washington University in St. Louis) has created a programming library for handling large scale corpora. The documentation is available at the link below and the library itself should be publicly available in summer 2016.</Abstract>
+		<AccessModel>dictionary to be publicly released in summer 2016</AccessModel>
+		<Author>Anupam Basu</Author>
+		<PrimaryURL>http://abasu.net/texture/</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Python</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Texture Programming Library</Title>
+		<Year>2016</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="5327">
+		<ApplicationNumber>HK-50011-12</ApplicationNumber>
+		<Abstract>WordSeer is a text analysis environment that combines visualization, information retrieval, sensemaking and natural language processing to make the contents of text navigable, accessible, and useful. You can run WordSeer on your local machine or on a shared server, and you access it via your modern web browser of choice (Google Chrome works best, though).&amp;#x0D; &amp;#x0D; If you're a scholar who's interested in using Wordseer for your research, read on. If you want to learn more about how to contribute to WordSeer's ongoing design and development, take a look at our Guidelines for Contributors.&amp;#x0D; &amp;#x0D; You can find much more information on WordSeer, including demo videos, use case studies, and background research, at wordseer.berkeley.edu.</Abstract>
+		<AccessModel/>
+		<Author>Aditi Muralidharan, Ian MacFarland, Hassan Jannah, David Bendebury, Raymon Sutedjo-The</Author>
+		<PrimaryURL>https://github.com/Wordseer/wordseer/</PrimaryURL>
+		<PrimaryURLDescription>Location of the open source code of WordSeer 4.0 on Github.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Python, javascript, </ProgrammingLanguage_Platform>
+		<SecondaryURL>http://wordseer.berkeley.edu/wordseer-4-0/</SecondaryURL>
+		<SecondaryURLDescription>Location of code for WordSeer 4.0  from the WordSeer site.</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>WordSeer Open Source Software</Title>
+		<Year>2016</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="9765">
+		<ApplicationNumber>HD-51735-13</ApplicationNumber>
+		<Abstract>To automate FACES and make it available through the Frick Art Reference Library of the Frick Collection in New York</Abstract>
+		<AccessModel/>
+		<Author>Conrad Rudolph and Amit Roy-Chowdhury</Author>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Automated FACES: A proposal for the automation and dissemination of a face recognition algorithm for the identification of unidentified works of portrait art</Title>
+		<Year>2016</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="9807">
+		<ApplicationNumber>HD-50173-07</ApplicationNumber>
+		<Abstract>Purpose of program was to begin testing use of TEI-XML on REED data, requiring the conversion from recorded embedded with long-established but internal ASCII-codes. This an essential first step leading to the prototype Fortune Records with sample endnotes, document descriptions, and embedded footnotes, developed by a 2012 Mellon grant and now online. The pioneering work done thanks to the NEH grant gave us credibility on the application to Mellon, as the NEH-funded project was cited in building the case to Mellon. That first NEH digital grant continues to be listed every time REED applies for further funding for digital purposes.&amp;#x0D;      An early goal of producing simultaneous print and digital editions was overtaken by the rapidity of "born-digital" publishing opportunities. Nevertheless, the conversion routine developed with funding from the grant has enabled an unanticipated REED project, which is the "pre-publication" of records by individual REED editors, making records available to the public even before they have been subjected to the full vetting by REED staff. The same conversion routine will be used in converting pre-TEI REED files for eventual publication online.</Abstract>
+		<AccessModel>Use internal to REED only, but we will gladly share.</AccessModel>
+		<Author>Alan H. Nelson, Barry Meikle</Author>
+		<PrimaryURL>http://reed.utoronto.ca/</PrimaryURL>
+		<PrimaryURLDescription>Primary URL is the REED website.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Program developed with PERL for TEI output</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://reedprepub.org/</SecondaryURL>
+		<SecondaryURLDescription>Secondary URL is for the "Pre-publication" webpage of REED. Pre-publication is not the computer program developed under the NEH grant, but is one of the direct results of the computer-program.</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>"Meikle program" (internal use only)</Title>
+		<Year>2009</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="10008">
+		<ApplicationNumber>HD-51400-11</ApplicationNumber>
+		<Abstract>Program written as add on for Plone. Allowed users to upload any sort of media and then place the object on the screen in multiple dimensions. Python libraries were used behind the scene to compare how objects were placed in different conceptual dimensions by different researchers, and ethnographic techniques were used to capture and compare different use cases.</Abstract>
+		<AccessModel>Open source, but no longer maintained</AccessModel>
+		<Author>Daniel Price</Author>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Javascript / Python</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Vwire (Visual Web Interface for Researchers)</Title>
+		<Year>2013</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="11057">
+		<ApplicationNumber>HD-51640-13</ApplicationNumber>
+		<Abstract>The Micropasts platform -- developed and maintained by the British Museum and affiliated partners -- allowed for Project Andvari to collect user insight into the applicability of our draft thesaurus resource to actual artifacts from the collections of the British Museum and the Swedish National Heritage Board. This app was developed primarily by the British Museum's Micropast project team under the guidance of Daniel Pett. Minor thesaurus-specific updates were contributed by Joseph Koivisto for the Andvari project team. The app was released in March 2015 and collected data through August. The source code was developed for a Pybossa-based crowdsourcing platform and is made available through Zenodo and GitHub without restriction.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Daniel Pett, Joseph Koivisto</Author>
+		<PrimaryURL>http://dx.doi.org/10.5281/zenodo.33171</PrimaryURL>
+		<PrimaryURLDescription>The primary URL is a link to the Zenodo DOI for the source code.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>The source code was develoepd for a Pybossa-based implementation. The programming languages used include JSON, Python, and HTML.</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://github.com/MicroPasts/projectAndvariLOD/tree/v1.0</SecondaryURL>
+		<SecondaryURLDescription>The secondary link is the URL to the GitHub repository where the source code is housed.</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Project Andvari LOD: Initial Release</Title>
+		<Year>2015</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="11475">
+		<ApplicationNumber>HD-51372-11</ApplicationNumber>
+		<Abstract>Video Stream is a plugin for Omeka that embeds a JW Player video segment player into item show pages. JW Player is a largely used open source video player that can be used with any device. It supports many protocols and can be customized with many configurataion options.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>William G. Cowan, Daniel Berthereau</Author>
+		<PrimaryURL>https://github.com/wgcowan/VideoStream</PrimaryURL>
+		<PrimaryURLDescription>Github repository with downloadable plugin and source code.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Plugin for Omeka written in PHP.</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>VideoStream</Title>
+		<Year>2012</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="11868">
+		<ApplicationNumber>HK-50181-14</ApplicationNumber>
+		<Abstract>Web Archiving Integration Layer (WAIL) is a graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages. Tools included and accessible through the GUI are Heritrix 3.2.0 and PyWb 0.33.0.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>John Berlin</Author>
+		<PrimaryURL>https://github.com/N0taN3rd/wail</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Python</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>WAIL-Electron</Title>
+		<Year>2016</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="12136">
+		<ApplicationNumber>HK-250616-16</ApplicationNumber>
+		<Abstract>Toolkit for processing narrowband and hemisphere captures into Spectral RTI images</Abstract>
+		<AccessModel>Open</AccessModel>
+		<Author>Jubilees Palimpsest Project</Author>
+		<PrimaryURL>https://github.com/thanneken/SpectralRTI Toolkit</PrimaryURL>
+		<PrimaryURLDescription>GitHub repository</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>ImageJ Macro / Java</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Spectral RTI Toolkit</Title>
+		<Year>2016</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="12142">
+		<ApplicationNumber>HD-248360-16</ApplicationNumber>
+		<Abstract>Welcome to the WAIVS&amp;#x0D; &amp;#x0D; The goal of our project is to develop a tool called WAIVS (Workflows for Analysis of Images and Visual Stylometry) for digital image analysis of paintings that is powerful enough to support advanced research in computer science, cognitive science, art history, and the philosophy of art while providing an accessible interface that can be used by researchers or students with little or no computer science background.&amp;#x0D; &amp;#x0D; A scientific workflow made in WAIVS is essentially a computer program. So once the user designs the workflow, they can simply click a button to conduct the analysis.&amp;#x0D; &amp;#x0D; Scientific workflows are different from ordinary flowcharts in that they can be directly executed. Once the user designs the workflow, they can simply click the run button to execute the program and conduct the analysis. WAIVS, built upon the Wings workflow system, includes the latest computer vision and artistic style algorithms.</Abstract>
+		<AccessModel>Subsciption only (right now)</AccessModel>
+		<Author>Catherine Buell, Ricky Sethi, Allen Perry, William Ianacci, Peter Cole</Author>
+		<PrimaryURL>http://wings.fitchburgcsclub.net/wings-portal/</PrimaryURL>
+		<PrimaryURLDescription>This URL brings the user to the tutorials and log-in screen.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>WINGS supported.</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Making WAIVS!</Title>
+		<Year>2017</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="14158">
+		<ApplicationNumber>PR-253386-17</ApplicationNumber>
+		<Abstract>Identifies text on maps.</Abstract>
+		<AccessModel>Open access</AccessModel>
+		<Author>Banisetti, Sandeep, Chiang, Yao-Yi, Kejriwal, Lakshya</Author>
+		<PrimaryURL>https://github.com/spatial-computing/strabo-text-recognition-deep-learning</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Strabo Text Recognition Deep Learning</Title>
+		<Year>2018</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="14159">
+		<ApplicationNumber>PR-253386-17</ApplicationNumber>
+		<Abstract>Older version of Strabo. Strabo Text Recognition Deep learning replaced this to improve precision and recall. Strabo Text Recognition Deep learning D the source of current precision recall data.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Chiang, Yao-Yi</Author>
+		<PrimaryURL>https://github.com/spatial-computing/strabo-command-line-pub</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Strabo Text Recognition</Title>
+		<Year>2017</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="14181">
+		<ApplicationNumber>PF-255801-17</ApplicationNumber>
+		<Abstract>eClimate notebook provides realtime data to monitor temperature and humidity throughout the building.</Abstract>
+		<AccessModel>Subscription only</AccessModel>
+		<Author>eClimate</Author>
+		<PrimaryURL>https://www.eclimatenotebook.com/</PrimaryURL>
+		<PrimaryURLDescription>eclimatenotebook</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>I don't know.</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>eClimate Notebook</Title>
+		<Year>2017</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="14633">
+		<ApplicationNumber>HAA-255990-17</ApplicationNumber>
+		<Abstract>Publish location-based, media-rich, structured narratives compatible with Curatescape mobile apps. Designed for public historians, urbanists, and other humanities researchers. Adds Tour and Story post types, as well as custom taxonomies and metadata fields. Developed with NEH support for Curating Kisumu (macleki.org).</Abstract>
+		<AccessModel>open source (GPL license)</AccessModel>
+		<Author>Erin Bell</Author>
+		<PrimaryURL>https://github.com/CPHDH/wp curatescape</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>WordPress (PHP / Javascript)</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Curatescape for WordPress</Title>
+		<Year>2018</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="14634">
+		<ApplicationNumber>HAA-255990-17</ApplicationNumber>
+		<Abstract>Adds Tour and Location post types, structured map blocks, and custom taxonomies. Designed for public historians, urbanists, and other humanities researchers. Represents an evolution (in progress) from Curatescape for WordPress plugin in response to release of fundamentally different WordPress 5.0 (Project Gutenberg), as well as a decision upon the close of the grant period to more clearly differentiate this digital storytelling platform from Curatescape for Omeka.</Abstract>
+		<AccessModel>open source (GPL license)</AccessModel>
+		<Author>Erin Bell</Author>
+		<PrimaryURL>https://github.com/CPHDH/placepress</PrimaryURL>
+		<PrimaryURLDescription>GitHub repository for PlacePress plugin code (work in progress)</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>WordPress (PHP / Javascript)</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://github.com/CPHDH/placepress</SecondaryURL>
+		<SecondaryURLDescription>GitHub repository for PlacePress plugin code (work in progress)</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>PlacePress</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="14652">
+		<ApplicationNumber>HAA-255990-17</ApplicationNumber>
+		<Abstract>Wordpress for the Developing World and Low Bandwidth Connections. Built for the WP Curatescape plugin used by MaCleKi (https://macleki.org/)</Abstract>
+		<AccessModel>open source (GPL license)</AccessModel>
+		<Author>Erin Bell</Author>
+		<PrimaryURL>https://github.com/CPHDH/curating-kisumu</PrimaryURL>
+		<PrimaryURLDescription>GitHub repository</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>WordPress (PHP / JavaScript)</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Curating Kisumu (WordPress theme)</Title>
+		<Year>2018</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="14940">
+		<ApplicationNumber>PR-258746-18</ApplicationNumber>
+		<Abstract>DLN:CaptureContext simplifies user management of a large volume of metadata through a user-friendly interface. This interface expedites user metadata input with a template process. For example, following a one-time entry of the user's photo equipment and associated metadata, the user creates templates and saves commonly used equipment configurations. The software follows a similar process to help the user record and group metadata related to the locations, institutions, imaging subjects, image rights, and people associated with the photographic data acquisition session. Relevant metadata can be entered to an extent determined by the user, grouped as desired, selected with a mouse click at the time of the capture session, and added to the DLN for a specific set of images. The information is then mapped to the CIDOC Conceptual Reference Model and exported as Linked Open Data in XML and RDF formats.  This software builds on prior work begun in 2013.</Abstract>
+		<AccessModel>Free Open Source Software.  Note this is a Beta version. The software is available under the GNU GPL version 3 open source license.</AccessModel>
+		<Author>Cultural Heritage Imaging, Erich Leisch</Author>
+		<PrimaryURL>http://culturalheritageimaging.org/What We Offer/Downloads/DLN/dln-cc/index.html</PrimaryURL>
+		<PrimaryURLDescription>Beta software download page.  This includes a user guide download link and links to instructional videos.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>The software is written in C++ and is available on the Windows and Mac platforms.</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Beta: DLN:CaptureContext</Title>
+		<Year>2018</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="14941">
+		<ApplicationNumber>PR-258746-18</ApplicationNumber>
+		<Abstract>DLN:Inspector automatically ensures that each image set meets the requirements for high-quality computational photography imaging. These requirements can be checked algorithmically. For example, Inspector can check that aperture does not change across a given image set. The tool will check for image-processing errors, such as sharpening, that should not be applied to photogrammetry or RTI data. This validation step will ensure users are alerted to potential issues in their image sets. Anyone else who wants to reuse these images can easily find this information.</Abstract>
+		<AccessModel>Free Open Source Software.  Note this is a Beta version. The software is available under the GNU GPL version 3 open source license.</AccessModel>
+		<Author>Cultural Heritage Imaging, Ronald Bourret</Author>
+		<PrimaryURL>http://culturalheritageimaging.org/What We Offer/Downloads/DLN/dln-insp/index.html</PrimaryURL>
+		<PrimaryURLDescription>Beta software download page.  This includes a user guide download  link and links to instructional videos.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>The software is written in C++ and is available on the Windows and Mac platforms.</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Beta: DLN:Inspector</Title>
+		<Year>2018</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="15757">
+		<ApplicationNumber>HAA-255937-17</ApplicationNumber>
+		<Abstract>DIVINER (1.0) is a digital platform built for archiving, organizing, and presenting large amounts of digital media (photographs, audio, video, and documents - or all four!). Its main selling point is an audience-friendly public interface that encourages personal interaction and engagement, and a customizable meta-data system attached to all archive items.  DIVINER is ideal for collections of humanities materials that an institution wishes to share with the public. Examples include a collection of 3,000 photographs of a large farm in the early 1900s, or thousands of audio clips and interviews related to immigration in Wisconsin).</Abstract>
+		<AccessModel>Open-source, open-access, free, available for download in WordPress Director</AccessModel>
+		<Author>Amy Feiereisel, Graeme Hoffman, Dale Hobson, Bill Haenel, Ellen Rocco</Author>
+		<PrimaryURL>https://ncpr.github.io/diviner-wp-archive-theme/</PrimaryURL>
+		<PrimaryURLDescription>Digital platform for humanities and public media organizations available as a WordPress Theme</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>WordPress</ProgrammingLanguage_Platform>
+		<SecondaryURL>wordpress.org/plugins/diviner-archive/</SecondaryURL>
+		<SecondaryURLDescription>Digital platform for humanities and public media organizations available as a WordPress-compatible Theme and Plug-in</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>DIVINER</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="15787">
+		<ApplicationNumber>HAA-263831-19</ApplicationNumber>
+		<Abstract>Software for music analysis and visualization designed for studying musical form in a variety of styles (European classical, popular music, world music).</Abstract>
+		<AccessModel>Currently only available to user testers at participating institutions in a 2019-2020 pilot implementation</AccessModel>
+		<Author>Aaron Carter-Enyi</Author>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>MATLAB
+Python</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>ATAVizM</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="15983">
+		<ApplicationNumber>HAA-261271-18</ApplicationNumber>
+		<Abstract>Coptic NLP Pipeline An end-to-end NLP pipeline for Coptic text in UTF-8 encoding.  Online production version available as a web interface at: https://corpling.uis.georgetown.edu/coptic-nlp/</Abstract>
+		<AccessModel>Open Source (Apache License)</AccessModel>
+		<Author>Amir Zeldes</Author>
+		<PrimaryURL>https://github.com/CopticScriptorium/coptic-nlp</PrimaryURL>
+		<PrimaryURLDescription>Source code</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Python</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://corpling.uis.georgetown.edu/coptic-nlp/</SecondaryURL>
+		<SecondaryURLDescription>Demo</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Coptic NLP V3.0.0</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="15984">
+		<ApplicationNumber>HAA-261271-18</ApplicationNumber>
+		<Abstract>RFTokenizer  A character-wise tokenizer for morphologically rich languages</Abstract>
+		<AccessModel>Open Source (Apache License)</AccessModel>
+		<Author>Amir Zeldes</Author>
+		<PrimaryURL>https://github.com/amir-zeldes/RFTokenizer</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Python</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>RFTokenizer V1.0.1</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="16056">
+		<ApplicationNumber>FEL-257634-18</ApplicationNumber>
+		<Abstract>This is the code developed in concert with the 2019 Journal on Computing and Cultural heritage paper, listed separately in this section. I have continued to develop these techniques in service of the Olympia project, although the generalized version designed for architectural rendering is not yet available. The latter would be released on a separate Github repository when it is fully functional.</Abstract>
+		<AccessModel>Open Access (with restrictions noted below)</AccessModel>
+		<Author>Philip Sapirstein</Author>
+		<PrimaryURL>https://github.com/psapirstein/epigraphyEnhance</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Matlab (the code is free, but to function it requires that users have a local installation of the program, which is propriety)</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Enhancement tools for 3D models of damaged inscribed surfaces</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="16363">
+		<ApplicationNumber>HAA-256218-17</ApplicationNumber>
+		<Abstract>Prototype open-source software for field assessment and documentation designed to leverage the core capabilities of augmented reality hardware, utilizing in this initial stage the Microsoft HoloLens, but with future cross-platform capability.</Abstract>
+		<AccessModel>Open access</AccessModel>
+		<Author>Scott Branting, Lori C. Walters, Joseph T. Kider Jr., E2i Creative Studio</Author>
+		<PrimaryURL>https://github.com/datch-ucf</PrimaryURL>
+		<PrimaryURLDescription>Repository site for source code and software documentation</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>C# / Unity</ProgrammingLanguage_Platform>
+		<SecondaryURL>http://datchucf.org</SecondaryURL>
+		<SecondaryURLDescription>DATCH Project website</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>DATCH</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="16634">
+		<ApplicationNumber>PR-253384-17</ApplicationNumber>
+		<Abstract>PBCore Cataloging Tool, "The PBCore Cataloging Tool is designed to support the creation, editing, and export of moving image-related inventory metadata as PBCore XML records. With a user-friendly data entry interface and full support of all PBCore elements and attributes, the tool makes creating valid PBCore XML documents as easy as filling out a spreadsheet."</Abstract>
+		<AccessModel>Open access</AccessModel>
+		<Author>WGBH Educational Foundation, Digital Bedrock</Author>
+		<PrimaryURL>http://pbcore.org/cataloging-tool</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>PBCore Cataloging Tool</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="16660">
+		<ApplicationNumber>MT-253343-17</ApplicationNumber>
+		<Abstract>Website where apps can be downloaded, trailer for project, press, more information, and primary sources.</Abstract>
+		<AccessModel>Open</AccessModel>
+		<Author>Michael epstein</Author>
+		<PrimaryURL>http://www.seehidden.city</PrimaryURL>
+		<PrimaryURLDescription>Project website.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Apps were built in Unity with MapKit.  In Apple store and Google Play.</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Museum of the Hidden City Website and Apps</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="16692">
+		<ApplicationNumber>PR-258543-18</ApplicationNumber>
+		<Abstract>The product is search functionality, not a single program.  It enables the searching of MimPIDD (the Mimbres Pottery Images Digital Database) with easily navigable menus.  A user can search for cases of her choice, based on one or many variables and variable states.  Output is a gallery of images with associated data and (optionally) an Excel file.  The search  also be used with any database with a similar structure (i.e., a flat file in which each row is a case, and each case has one or more associated images).</Abstract>
+		<AccessModel>Open access, though parts of the database with sensitive information are restricted.</AccessModel>
+		<Author>Michelle Hegmon, James DeVos, Adam Brin</Author>
+		<PrimaryURL>https://core.tdar.org/collection/22070/mimbres-pottery-images-digital-database-with-search</PrimaryURL>
+		<PrimaryURLDescription>This URL takes you directly to the page where you can use the search.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>MimPIDD Search</Title>
+		<Year>2020</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="16760">
+		<ApplicationNumber>HAA-266518-19</ApplicationNumber>
+		<Abstract>TopoLogic, a Topic Model generator and navigation system which is also available on GitHub:     https://github.com/ARTFL-Project/TopoLogic TopoLogic builds value-added services on top of the standard PhiloLogic index, leveraging topic-modeling techniques to offer an alternate way of exploring text collections. Topic-modeling, the algorithmic technique which we use for this new navigational tool, is an unsupervised machine learning approach designed to facilitate the exploration of large collections of texts where no topical information is provided. As such, this computational method can be a truly useful way of gaining a sense of the topical structure of a corpus -- i.e. to find out what's in there -- and how words are clustered together to form meaningful discourses.  TopoLogic builds upon the topics and semantic fields generated by the algorithm to provide a web-based navigation system which lets users explore topics and discourses across time, as well as word usage within different contexts. The interaction of the three different schemes allows the user to navigate between alternative ways of considering topics across the collection.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Clovis Gladstone</Author>
+		<PrimaryURL>https://github.com/ARTFL-Project/TopoLogic</PrimaryURL>
+		<PrimaryURLDescription>Source Code</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Python/Javascript</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://artflsrv03.uchicago.edu/topic-modeling-browser/frc1787 99/</SecondaryURL>
+		<SecondaryURLDescription>Full Function Example</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>TopoLogic</Title>
+		<Year>2020</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="16978">
+		<ApplicationNumber>HAA-258763-18</ApplicationNumber>
+		<Abstract>We are committed to the creation of open and accessible tools. The extractor, annotator, and database are available through the project website (http://sites.baylor.edu/budas/) or Github (https://github.com/linki0/BUDAS-extractor and https://github.com/linki0/BUDAS/). They are implemented in Python 3.7 using publicly available modules. Our team chose Python because it is commonly used in digital humanities and offers flexibility and cross-compatibility. We also included an executable option, but it is only available for Windows users at this time. Our team created documentation and instructions for all the above components, which are available through the Github links.</Abstract>
+		<AccessModel>Open access</AccessModel>
+		<Author>Elise King, David Lin</Author>
+		<PrimaryURL>https://github.com/linki0/BUDAS-extractor</PrimaryURL>
+		<PrimaryURLDescription>BuDAS extractor and annotator</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Python</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://github.com/linki0/BUDAS/</SecondaryURL>
+		<SecondaryURLDescription>BuDAS database and analyzer</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Building Database and Analytics System (BuDAS)</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="17138">
+		<ApplicationNumber>HAA-256368-17</ApplicationNumber>
+		<Abstract>Source code for the TMVis project</Abstract>
+		<AccessModel>open-source</AccessModel>
+		<Author>Abigail Mabe, Dhruv Patel, Maheedhar Gunnam, Surbhi Shankar, Mat Kelly, Sawood Alam</Author>
+		<PrimaryURL>https://github.com/oduwsdl/tmvis</PrimaryURL>
+		<PrimaryURLDescription>Source Code, hosted on GitHub</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Node, JavaScript</ProgrammingLanguage_Platform>
+		<SecondaryURL>http://tmvis.cs.odu.edu/</SecondaryURL>
+		<SecondaryURLDescription>Demo server</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>TMVis source code</Title>
+		<Year>2020</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="17393">
+		<ApplicationNumber>PR-263944-19</ApplicationNumber>
+		<Abstract>Archivist-made software that supports data migration from DV tapes into digital files suitable for long-term preservation.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Moving Image Preservation of Puget Sound, RiceCapades</Author>
+		<PrimaryURL>https://github.com/mipops/dvrescue</PrimaryURL>
+		<PrimaryURLDescription>GitHub repository for DVRescue</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>DVRescue is available for all major operating systems (macOS, Windows, and Linux). Installers can be downloaded here: https://mediaarea.net/DVRescue
+
+Daily snapshots of the compiled project are available here: https://mediaarea.net/download/snapshots/binary/dvrescue/</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://mediaarea.net/DVRescue</SecondaryURL>
+		<SecondaryURLDescription>MediaArea hosting DVRescue daily builds</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>DVRescue</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="17467">
+		<ApplicationNumber>PW-259067-18</ApplicationNumber>
+		<Abstract>This repository contains a static web application that was developed as part of the Unlocking the Airwaves project. You can find the production deployment of this website at:  https://mith.umd.edu/airwaves/</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Ed Summers</Author>
+		<PrimaryURL>https://github.com/umd-mith/airwaves</PrimaryURL>
+		<PrimaryURLDescription>GitHub Repository (Airwaves web application)</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>NodeJS/Gatsby (Static Site Generation), JavaScript (client-side search)</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>GitHub Repository - Unlocking the Airwaves website application</Title>
+		<Year>2018</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="17468">
+		<ApplicationNumber>PW-259067-18</ApplicationNumber>
+		<Abstract>This repository contains code for a React component that lets you play an audio file while viewing its WebVTT subtitles as an interactive transcript. Webvtt-player was developed as part of the Unlocking the Airwaves project which received generous support from the National Endowment for the Humanities.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Ed Summers</Author>
+		<PrimaryURL>https://github.com/umd-mith/webvtt-player</PrimaryURL>
+		<PrimaryURLDescription>GitHub Repository - WebVTT Audio/Transcript Player</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>JavaScript/React; WebVTT</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>GitHub Repository - WebVTT Audio/Transcript Player</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="17706">
+		<ApplicationNumber>HAA-256224-17</ApplicationNumber>
+		<Abstract>Converts Atf files to CDLI Conll format</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Jayanth, Ilya Khait, Émilie Pagé-Perron</Author>
+		<PrimaryURL>https://github.com/cdli-gh/atf2conll-convertor</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Python, all platforms</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>C-ATF to CDLI-CoNLL converter</Title>
+		<Year>2018</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="17707">
+		<ApplicationNumber>HAA-256224-17</ApplicationNumber>
+		<Abstract>This tool converts a CDLI-CoNLL file to a CoNLL-U file.</Abstract>
+		<AccessModel>Open access</AccessModel>
+		<Author>Anoosha Sagar, Émilie Pagé-Perron, Jayanth</Author>
+		<PrimaryURL>https://github.com/cdli-gh/CDLI-CoNLL-to-CoNLLU-Converter</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Python, all platforms</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>CDLI-CoNLL to CoNLL-U converter</Title>
+		<Year>2018</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="17708">
+		<ApplicationNumber>HAA-256224-17</ApplicationNumber>
+		<Abstract>CoNLL-U format library for Python</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Pouya Lajevardi, Émilie Pagé-Perron, Jayanth</Author>
+		<PrimaryURL>https://github.com/cdli-gh/conllu.py</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Python, all platforms</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>CoNLL-U to Brat standalone converter</Title>
+		<Year>2017</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="17709">
+		<ApplicationNumber>HAA-256224-17</ApplicationNumber>
+		<Abstract>This tool converts a Brat standoff file format to a CDLI-CoNLL format.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Shraddha Manchekar, Émilie Pagé-Perron</Author>
+		<PrimaryURL>https://github.com/cdli-gh/brat to cdli conll converter</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Python, all platforms</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Brat standoff to CDLI-CoNLL Converter</Title>
+		<Year>2018</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="17710">
+		<ApplicationNumber>HAA-256224-17</ApplicationNumber>
+		<Abstract>Python tools for working with ATF</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Ralph Gilles, Jayanth, Aman Singh</Author>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Python, all platforms</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>PyOracc CDLI Fork</Title>
+		<Year>2018</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="17711">
+		<ApplicationNumber>HAA-256224-17</ApplicationNumber>
+		<Abstract>Parser and exporter for the JSON Transliteration Format (JTF)</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Parser and exporter for the JSON Transliteration Format (JTF)  Topics Resources, Ilya Khait</Author>
+		<PrimaryURL>https://github.com/cdli-gh/JTF</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Javascript, all platforms</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>JTF ATF Checker</Title>
+		<Year>2020</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="17749">
+		<ApplicationNumber>HAA-263800-19</ApplicationNumber>
+		<Abstract>The online mensural music editor allows a variety of users (students and experts, musicologists, music theorists, palaeographers, musicians, singers, etc.) to both access and contribute transcriptions of medieval polyphonic music directly linked to images of the medieval manuscripts. It allows users with no expertise in music encoding to encode large amounts of music data in mensural notation following the community based open-access standards of the Music Encoding Initiative, thereby increasing medieval music repertoires available for study, performance, and analysis.</Abstract>
+		<AccessModel>Open access</AccessModel>
+		<Author>Karen Desmond, Juliette Regimbal, Martha Thomae, Craig Sapp, Andrew Hankinson, Laurent Pugin</Author>
+		<PrimaryURL>http://editor.measuringpolyphony.org</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Javascript</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://github.com/MeasuringPolyphony/mp editor</SecondaryURL>
+		<SecondaryURLDescription>This is the source code in Github (open source)</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Online Mensural Music Editor</Title>
+		<Year>2020</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="17752">
+		<ApplicationNumber>HAA-266482-19</ApplicationNumber>
+		<Abstract>Please see Supplementary Materials Fourth-report 2021-09-30 SYLARD-Review.pdf  The SYLARD program is designed to convert ELAN files (.eaf) to HTML. ELAN files are time-coded annotations (e.g., transcriptions and translations, sometimes with parses, glosses, and other data) of audio or video files. ELAN is the dominant program used to annotate endangered language recordings and is virtually the only program now in general use for this purpose. The goal of SYLARD is to create web pages such as those at http://demca.tacc.utexas.edu/ethno/eaf/index.php  A summary of advances to date is included in this report in the document 2020-09-30 SYLARD NEH-Mesolex.pdf in Supplementary materials.</Abstract>
+		<AccessModel>Open access and open source</AccessModel>
+		<Author>Bruno Pérez Chávez, Iván Rivalcoba Rivas, Jonathan D. Amith</Author>
+		<PrimaryURL>https://sylard-hsnrj.ondigitalocean.app/#</PrimaryURL>
+		<PrimaryURLDescription>The software has been deployed and tested online. Once it is finalized it will be made available, probably via GitHub. It will create a playback system such as that in the URL in the following, Secondary URL box, which is just an example of how the SYLARD software will create line-by-line playback.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>The system will be developed in NodeJs. It will use a non-relational database administered by MongoDB. It should be executed on a local platform or cloud that supports NodeJs in its last stable version: LTS.</ProgrammingLanguage_Platform>
+		<SecondaryURL>http://demca.mesolex.org/ethno/eaf/eafdetail.php?mediaid=105&amp;amp;collid=0</SecondaryURL>
+		<SecondaryURLDescription>Example of the type of web page that SYLARD will create once finished.</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>SYLARD: Synchronized Language Annotation Result Display [updated 31 March 2021]</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="17792">
+		<ApplicationNumber>HAA-271837-20</ApplicationNumber>
+		<Abstract>Manifold is an open-source publishing platform created by the GC Digital Scholarship Lab at the CUNY Graduate Center, the University of Minnesota Press, and Cast Iron Coding. Funded by the Andrew W. Mellon Foundation and National Endowment for the Humanities, it enables publishers to create media-rich, interactive digital publications that take advantage of the full capabilities of the web and extend the educational benefits and access of digital scholarship to more communities.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>CUNY Graduate Center, University of Minnesota Press, Cast Iron Coding</Author>
+		<PrimaryURL>http://manifoldapp.org</PrimaryURL>
+		<PrimaryURLDescription>Manifold website</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>React, Ruby on Rails, Node, Postgres, Elastic, Redis</ProgrammingLanguage_Platform>
+		<SecondaryURL>http://cuny.manifoldapp.org</SecondaryURL>
+		<SecondaryURLDescription>CUNY's installation of the Manifold platform, which focuses on Open Educational Resources</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Manifold</Title>
+		<Year>2018</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="18093">
+		<ApplicationNumber>HAA-258602-18</ApplicationNumber>
+		<Abstract>Symbiota software enhancements for the DEMCA portal at demca.mesolex.org</Abstract>
+		<AccessModel>Open source and open access</AccessModel>
+		<Author>Benjamin Brandt and Jonathan D. Amith</Author>
+		<PrimaryURL>: https://github.com/DEMCA-Ethnobiology/Symbiota/blob/master/collections/individual/index.php</PrimaryURL>
+		<PrimaryURLDescription>GitHub depository</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>PHP, Java script</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>DEMCA Symbiota open source software</Title>
+		<Year>2020</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="18565">
+		<ApplicationNumber>HAA-266482-19</ApplicationNumber>
+		<Abstract>Mesolex is a smart dictionary for Nahuatl (and eventually other Indigenous languages of Mexico) built with a combination of the JavaScript and a backend finite state transducer for dictionary look-up across orthographic and linguistic variations.</Abstract>
+		<AccessModel>https://github.com/nmashton/mesolex</AccessModel>
+		<Author>Ashton, Neil</Author>
+		<PrimaryURL>https://github.com/nmashton/mesolex</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Mesolex is a standard Django app built for easy local development and simple provisioning of and deployment to new instances.
+Before installing, make sure you have the following prerequisites installed:
+
+Python 3.7
+Node 10.x
+Postgres = 11
+Elasticsearch 6.x</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>A smart dictionary for Indigenous Mesoamerican languages</Title>
+		<Year>2022</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="18860">
+		<ApplicationNumber>HAA-269051-20</ApplicationNumber>
+		<Abstract>Major release v21.2 includes a new subject details export, usability improvements for document sets, and additional tags to support marginalia and catchwords within transcribed documents. User Enhancements      New subject details export allows project owners to review subjects in spreadsheet format     Project owners can upload custom profile images to replace gravatar     New Spanish and Portuguese translations for portions of the user interface     Improved wording when a user attempts to access a work they are not authorized to see     Better support for public document sets of private collections     Support for new marginalia and catchword tags     Improved support for soft breaks and word continuation characters     Accessibility improvements for search input fields and other forms     Improved default transcription conventions used by new projects     Display tooltip over editor buttons explaining their use     Reverted to proportional font within the advanced editor  Integration Improvements      Support importing OCR text from beta CONTENTdm PDF IIIF integration  Bug fixes      Fixed several UI glitches with the new advanced editor     Fixed category assignment within a document set context     Wiki-links containing single parentheses no longer break transcriptions     Improved display of expan and reg tags that do not contain abbr or orig attributes  Serviceability Improvements      Performance improvements rendering page thumbnails  The team is grateful to the Folger Shakespeare Library and the Wellcome Library for support for new TEI tags, and to Bryce Mclin for Portuguese translations.</Abstract>
+		<AccessModel>Open source</AccessModel>
+		<Author>Ben Brumfield, Sara Brumfield</Author>
+		<PrimaryURL>https://github.com/benwbrum/fromthepage/releases/tag/v21.2</PrimaryURL>
+		<PrimaryURLDescription>Release notes on GitHub</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>FromThePage v21.2</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="18861">
+		<ApplicationNumber>HAA-269051-20</ApplicationNumber>
+		<Abstract>Major release v21.1 includes substantial new support for exporting entire collections, allowing project owners to specify the type and granularity of the formats to be exported. This functionality includes background processing and a new API, which allows bulk exports to be executed programmatically for off-site back-ups. The release also includes TEI tag support for abbr, add, and reg, to allow transcribers better support for mark-up of inserted text as well as medieval and early modern abbreviations and letter-forms.</Abstract>
+		<AccessModel>Open source</AccessModel>
+		<Author>Sara Brumfield, Ben Brumfield</Author>
+		<PrimaryURL>https://github.com/benwbrum/fromthepage/releases/tag/v21.1</PrimaryURL>
+		<PrimaryURLDescription>Release notes and source code on GitHub</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>FromThePage v21.1</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="18862">
+		<ApplicationNumber>HAA-269051-20</ApplicationNumber>
+		<Abstract>Major release v20.12 includes a new advanced editor (beta) and several bug fixes.</Abstract>
+		<AccessModel>Open source</AccessModel>
+		<Author>Sara Brumfield, Ben Brumfield</Author>
+		<PrimaryURL>https://github.com/benwbrum/fromthepage/releases/tag/v20.12</PrimaryURL>
+		<PrimaryURLDescription>Source code and release notes on GitHub</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>FromThePage v20.12</Title>
+		<Year>2020</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="18863">
+		<ApplicationNumber>HAA-269051-20</ApplicationNumber>
+		<Abstract>Major release v20.11 includes substantial new support for metadata, allowing new fields to be imported or uploaded in bulk and then used for user navigation, as well as adding new editable fields to works supporting documentary editing work-flows. Notable bug fixes include more intelligent support for hyphens in transcripts, fixes to the project owner activity email contents, and fixes for per-page image uploads.</Abstract>
+		<AccessModel>Open source</AccessModel>
+		<Author>Diego Viola, Ben Brumfield, Sara Brumfield</Author>
+		<PrimaryURL>https://github.com/benwbrum/fromthepage/releases/tag/v20.11</PrimaryURL>
+		<PrimaryURLDescription>Source code and release notes on GitHub</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL>https://github.com/benwbrum/fromthepage/releases/tag/v20.11.1</SecondaryURL>
+		<SecondaryURLDescription>This release corrects a version control issue in v20.11 which prevented much new functionality from actually being included in that release. It should be used in lieu of v20.11.</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>FromThePage v20.11</Title>
+		<Year>2020</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="18864">
+		<ApplicationNumber>HAA-269051-20</ApplicationNumber>
+		<Abstract>Major release including performance and serviceability enhancements, improvements to user experience for collaborators on private projects, and several bug fixes.</Abstract>
+		<AccessModel>Open source</AccessModel>
+		<Author>Sara Brumfield, Ben Brumfield</Author>
+		<PrimaryURL>https://github.com/benwbrum/fromthepage/releases/tag/v20.9</PrimaryURL>
+		<PrimaryURLDescription>Source code and release notes on GitHub</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>FromThePage v20.9</Title>
+		<Year>2020</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="18866">
+		<ApplicationNumber>HAA-269051-20</ApplicationNumber>
+		<Abstract>Note that this release is the first release based on Ruby on Rails 6. It will require upgrades of many of the underlying components. For more details, please review this page on the wiki.  This release contains the following enhancements and bug fixes: User Enhancements      Beta release of internationalization support. (Funded by a National Endowment for the Humanities Grant to FromThePage and the University of Texas Libraries.)     Beta release of translations to Spanish and Portuguese. (Funded by a National Endowment for the Humanities Grant to FromThePage and the University of Texas Libraries.)  Integration Enhancements      Bulk export of all collections in all formats, including TEI.     Bulk export includes page level granularity.  Serviceability Improvements      Disable subject linking on new projects by default.  The team is grateful to everyone who contributed to this release:      Diego Viola, who worked tirelessly on the upgrade to Rails 6 and keeping the code in sync between the old and new versions for way too long.     Diego, again, and Joshua Ortiz Baco for their work on internationalizing (Diego) and translating (Joshua) the FromThePage interface into Spanish and Portuguese with guidance from Allyssa Guzman and Albert Palacios.     Our summer interns, Isabela Barton and Josie Brumfield, for contributing bug fixes.</Abstract>
+		<AccessModel>Open source</AccessModel>
+		<Author>Sara Brumfield, Ben Brumfield, Diego Viola, Joshua Ortiz Baco, Isabela Barton, Josie Brumfield</Author>
+		<PrimaryURL>https://github.com/benwbrum/fromthepage/releases/tag/v20.8</PrimaryURL>
+		<PrimaryURLDescription>Source code and release notes on GitHub</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>FromThePage v20.8</Title>
+		<Year>2020</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="19003">
+		<ApplicationNumber>PR-258900-18</ApplicationNumber>
+		<Abstract>This open source platform aims at uniting the knowledge of different three-dimensional imaging and projection techniques, including their calibration, image processing and visualization. Our goal is to have all modules in one place, such that the use of different cameras, projectors, calibration techniques or image processing algorithms can be done in a straight forward manner. The classes Camera, Projection, Calibration and ImageProcessing serve as the base classes and contain the basic functions and parameters, which are shared by any object and are ought to be overwritten in the corresponding subclass. This also means that any user can create classes for their own specific cameras, projectors, etc. using their own libraries, while enabling a smooth integration. Regarding the cablibration, capturing and computation of the imaging system, additional base classes, namely CalibrationSession and CaptureSession, are established from which different 3D imaging techniques inherit functions and parameters. Last but not least a simple visualization class is provided to show the images using the matplotlib and others to visualize images, normal maps, arrow maps, point clouds and meshes. The class structure is visualized in the image below.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Marc Walton, Merlin Nau, Florian Willomitzer, Ollie Cossairt, Aggelos Katsaggelos</Author>
+		<PrimaryURL>http://github.com/NU-ACCESS/GhostScan</PrimaryURL>
+		<PrimaryURLDescription>GitHub code repository</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Python</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>GhostScan</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="19237">
+		<ApplicationNumber>PW-263985-19</ApplicationNumber>
+		<Abstract>The GitHub repository of the website's source code.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Joseph Hayes</Author>
+		<PrimaryURL>https://github.com/the-norman-sicily-project</PrimaryURL>
+		<PrimaryURLDescription>Location of the project's source code.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>The Norman Sicily Project</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="19340">
+		<ApplicationNumber>HAA-266518-19</ApplicationNumber>
+		<Abstract>This code extracts consistent, structured data from PhiloLogic4 database instances that is required for cross-collection processing, search, and navigation. We use this extracted data for global search and retrieval, generating topic models on individual collections, performing sequence alignment across collections, and generating topic based text segments. The library allows us to leverage PhiloLogic4 services to enhance search, reporting, and navigation.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Clovis Gladstone</Author>
+		<PrimaryURL>https://github.com/ARTFL-Project/text-preprocessing</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>ARTFL Text Preprocessing Library</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="19447">
+		<ApplicationNumber>ZR-256766-18</ApplicationNumber>
+		<Abstract>The Stqry app for traveling the Words Trail.</Abstract>
+		<AccessModel>Compter app.</AccessModel>
+		<Author>Brattleboro Words Project https://brattleboro.stqry.app/1</Author>
+		<PrimaryURL>http://https://brattleboro.stqry.app/1</PrimaryURL>
+		<PrimaryURLDescription>Access to Brattleboro Words Trail documentaries.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Stqry</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Brattleboro Words Trail app</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="19448">
+		<ApplicationNumber>ZR-256766-18</ApplicationNumber>
+		<Abstract>Page with information and access to Brattleboro Words Trail site.</Abstract>
+		<AccessModel/>
+		<Author>Google Store</Author>
+		<PrimaryURL>https://play.google.com/store/apps/details?id=com.mytoursapp.android.app2596&amp;amp;hl=en US&amp;amp;gl=US</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription>Play Google site</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Google Play - Travel &amp;amp; Local</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="19495">
+		<ApplicationNumber>HAA-256138-17</ApplicationNumber>
+		<Abstract>Biblio is an XML-based platform for data conversion and management of digital bibliographic data.</Abstract>
+		<AccessModel>Biblio is developed for internal use by the DHQ journal.</AccessModel>
+		<Author>Ash Clark</Author>
+		<PrimaryURL>https://github.com/Digital-Humanities-Quarterly/dhq-journal/tree/master/biblio/DHQ-Biblio-v3</PrimaryURL>
+		<PrimaryURLDescription>This is this URL for the public code repository for the Biblio tool.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Languages: XQuery, XSLT. Platform: BaseX, Linux.</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Biblio</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="19512">
+		<ApplicationNumber>PW-259048-18</ApplicationNumber>
+		<Abstract>All Python scripts and software developed during the project are open source.</Abstract>
+		<AccessModel>Open source</AccessModel>
+		<Author>Michael Campos-Quinn, Annie Schweikert</Author>
+		<PrimaryURL>https://github.com/BAM-PFA</PrimaryURL>
+		<PrimaryURLDescription>This links to BAMPFA's github page with open source software.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>BAMPFA Python scripts</Title>
+		<Year>2020</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="19533">
+		<ApplicationNumber>PR-263944-19</ApplicationNumber>
+		<Abstract>The latest release of the graphical user interface (GUI) version of DVRescue (version 2021-07-31)</Abstract>
+		<AccessModel>Open Source</AccessModel>
+		<Author>MIPoPS, RiceCapades, MediaArea</Author>
+		<PrimaryURL>https://mediaarea.net/download/snapshots/binary/dvrescue-gui/20210731/</PrimaryURL>
+		<PrimaryURLDescription>Link to the installers for the DVRescue GUI (Windows, Linux and macOS versions included).</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Misc. languages used; platforms include Windows, Linux and macOS.</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>DVRescue GUI (version 2021-07-31)</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="19705">
+		<ApplicationNumber>AKA-265594-19</ApplicationNumber>
+		<Abstract>Hoku is an open-source, cross-platform imaging processing software. Written in Java, it is designed to allow users to process multispectral and hyper spectral images both deterministically and statistically. Its graphical user interface and features have been refined by use in courses in Textual Science at the University of Rochester, and members of the Lazarus Project at the University of Rochester have written a user manual for the application.</Abstract>
+		<AccessModel>Hoku is free and open source and can be downloaded at http://www.cis.rit.edu/~ktkpci/Hoku.html. More information can be found about downloads and installation at https://r-chive.com/software/.</AccessModel>
+		<Author>Keith Knox</Author>
+		<PrimaryURL>http://www.cis.rit.edu/~ktkpci/Hoku.html</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Java</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://r-chive.com/software/</SecondaryURL>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Hoku</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="19756">
+		<ApplicationNumber>HAA-266482-19</ApplicationNumber>
+		<Abstract>Updated finite state transducer for Nahuat(l) look-up, an application that takes into consideration two factors that hinder effective use of dictionaries by end users, particularly native speakers. The first factor is that Indigenous languages often vary from one community of speakers to another and thus speakers of one language or variant might have difficulty looking up words, even when cognates, from a related language (e.g., speaker A says 'ohtli' and speaker B, from a nearby village, says 'otli'). The second factor that hinder look-up is variable orthographic traditions. For example, some speakers might write the [wa] sound as 'wa', others as 'hua' and still others as 'ua'. The finite state mechanism allows users to enter a wide variety of orthographic representations and nevertheless find the sought-after headword.</Abstract>
+		<AccessModel/>
+		<Author>Jonathan D. Amith, Robert Pugh</Author>
+		<PrimaryURL>https://mesolex-frontend-develop-eztzm.ondigitalocean.app/azz</PrimaryURL>
+		<PrimaryURLDescription>For example, select Entrada empieza con and then Activar flexibilidad ortográfica. Type in, for example, tlacatl. The finite state transducer built into the backend then processes the section input "tlacatl" and says that it is equivalent to, among other possibilities, "ta:kat" and then finds this entry. One can also search for "ojtli" to find "ohti" and "tomauac" to find "toma:wak". The found words represent linguistic and orthographic cognates and equivalences to the search entries.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>FOMA is a compiler, programming language, and C library for constructing finite-state automata and transducers.</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Updated finite state transducer for variable orthography in Nahuat(l) dictionary look-up</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="19769">
+		<ApplicationNumber>MN-268921-20</ApplicationNumber>
+		<Abstract>GLARE enables the rapid development of new experiences via a simple web interface. Users navigate a map, locate spatial coordinates, and select associated media content.  The development of GLARE is built around linked media, scalable by nature to allow changes to be rapidly made to the linked content and to the tour in general. Simply increasing the number of menu items or number of provided links at each hotspot allow changes to be made to the extensible framework. Others may continue development of the framework and rapidly create custom paths to include new content, themes and stories. Using the same interface and configuration, hotspots simply require a geographic location, media to overlay, and a list of appropriately linked content.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Richard Ferdig, Robert Clements, CC Lu, Enrico Gandolfi, Annette Kratcoski, Chris Lenart</Author>
+		<PrimaryURL>http://glare.cs.kent.edu</PrimaryURL>
+		<PrimaryURLDescription>Link to the main GLARE editor.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>GLARE</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="19824">
+		<ApplicationNumber>PR-263944-19</ApplicationNumber>
+		<Abstract>Archivist-made software that supports data migration from DV tapes into digital files suitable for long-term preservation.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>MediaArea, RiceCapades, MIPoPS</Author>
+		<PrimaryURL>https://mediaarea.net/download/snapshots/binary/dvrescue-gui/20211017-2/</PrimaryURL>
+		<PrimaryURLDescription>Source code and packaged download for installing the latest version of the DVRescue graphic user interface (GUI).</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Platforms: macOS, Windows, and Linux
+Programming Languages: various</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://mediaarea.net/DVRescue</SecondaryURL>
+		<SecondaryURLDescription>DVRescue is available for all major operating systems (macOS, Windows, and Linux). Installers can be downloaded at this link.</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>DVRescue GUI (version 2021-10-17 2)</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="19825">
+		<ApplicationNumber>PR-263944-19</ApplicationNumber>
+		<Abstract>Archivist-made software that supports data migration from DV tapes into digital files suitable for long-term preservation.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>MediaArea, RiceCapades, MIPoPS</Author>
+		<PrimaryURL>https://mediaarea.net/download/snapshots/binary/dvrescue/20211017-2/</PrimaryURL>
+		<PrimaryURLDescription>Source code and packaged download for installing the latest version of the DVRescue command line tools (CLI).</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Platforms: macOS, Windows, and Linux
+Programming Languages: various</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://mediaarea.net/DVRescue</SecondaryURL>
+		<SecondaryURLDescription>DVRescue is available for all major operating systems (macOS, Windows, and Linux). Installers can be downloaded at this link.</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>DVRescue CLI (version 2021-10-17 2)</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="19836">
+		<ApplicationNumber>PD-261031-18</ApplicationNumber>
+		<Abstract>This is a software product there is no abstract.</Abstract>
+		<AccessModel>Public access</AccessModel>
+		<Author>Ivens, John, Vincent, Audra, Bischoff, Shannon, Fountain, Amy</Author>
+		<PrimaryURL>https://thecolrc.org</PrimaryURL>
+		<PrimaryURLDescription>development version of the COLRC 2.0</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>docker, nginx, postgresql, graphql, javascript (React)</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://github.com/arizona-linguistics/colrc-v2</SecondaryURL>
+		<SecondaryURLDescription>code for the COLRC 2.0</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>The COLRC 2.0</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="19873">
+		<ApplicationNumber>HAA-261249-18</ApplicationNumber>
+		<Abstract>TEI-XML Components helps users learn, understand, and navigate among all the TEI components described in the TEI Guidelines swiftly and easily. It breaks the barrier that discourages many editors from embracing the TEI concept of encoding texts for the long-term benefit of humanities research. A particular challenge is to get a good grasp of the many mutual or hierarchical interdependencies within TEI's XML structure. This software allows users, beginners or advanced, to understand the logic of those interdependencies through a navigational system that reveals connections between elements, attributes, values, attribute classes, datatypes, models, macros, and modules. It comes with two integrated but distinct sub-applications.  "Explore TEI-XML Files" is one of them. It helps navigate XML files and extract encoded data from them. Users do not need to master programming languages such as XQuery to query the XML. After importing any XML file, users need only use pull-down menus to examine complete alphabetized lists of tag elements, attributes, and values found in that file. Users then select any of those XML components in any order to display their related contents or related encodings in the interface's bottom field. Clicking any line in that bottom field selects and displays the related encoding in the XML file in the top field.  The "XML:Lang Utility" is the other sub-application. It helps XML practitioners fill in correct values for the ubiquitous xml:lang attribute—the attribute in charge of identifying the language in which any portion of a text has been written or spoken. The app is based on the IANA "Language Subtags Registry", a large database that provides a unique identifier for thousands of languages, dialects, idioms, scripts, and orthographies. The app not only provides the correct and well-structured code for any registered language, it also helps users discover languages and dialects while displaying more information than the Registry itself.</Abstract>
+		<AccessModel>The software is provided free of charge under a BY-NC-ND Creative Commons License defined within a document that accompanies the software.</AccessModel>
+		<Author>André De Tienne</Author>
+		<PrimaryURL>https://peirce.iupui.edu/TEI.html</PrimaryURL>
+		<PrimaryURLDescription>A webpage within the official website of the Peirce Edition Project inder a tab labeled "TEI-XML Software". The webpage explains and illustrates the three applications contained in TEI-XML Components and allows people to download five distinct versions of the software (MacOSX, Linux 32 bit, Linux 64 bit, Windows 32 bit, and Windows 64 bit).</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>The programming language is LiveCode Script (also known as Transcript), which compiles into C. Platforms: MacOSX, Linux, and Windows.</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>TEI-XML Components</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="20129">
+		<ApplicationNumber>HAA-271654-20</ApplicationNumber>
+		<Abstract>BookNLP, a natural language processing pipeline for books</Abstract>
+		<AccessModel>Open access</AccessModel>
+		<Author>David Bamman</Author>
+		<PrimaryURL>https://github.com/booknlp/booknlp</PrimaryURL>
+		<PrimaryURLDescription>Github Repository for BookNLP</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Python</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>BookNLP</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="20377">
+		<ApplicationNumber>FA-252546-17</ApplicationNumber>
+		<Abstract>A library for the visualization and exploration of high-dimensional datasets in two dimensional space.</Abstract>
+		<AccessModel>MIT license</AccessModel>
+		<Author>Benjamin Schmidt</Author>
+		<PrimaryURL>https://github.com/CreatingData/deepscatter</PrimaryURL>
+		<PrimaryURLDescription>Code repository</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Javascript/WebGL.</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Deepscatter</Title>
+		<Year>2018</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="20693">
+		<ApplicationNumber>FN-271111-20</ApplicationNumber>
+		<Abstract>A finite-state morphological transducer for the Gitksan language (Tsimshianic, BC) implemented in foma. Lexical items are primarily drawn from Hindle &amp;amp; Rigsby (1975).</Abstract>
+		<AccessModel>open source program</AccessModel>
+		<Author>Clarissa Forbes</Author>
+		<PrimaryURL>https://github.com/caforbes/git fst</PrimaryURL>
+		<PrimaryURLDescription>Github source code</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>foma, python</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Gitksan FST</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="20792">
+		<ApplicationNumber>HT-272570-20</ApplicationNumber>
+		<Abstract>Cadet is an open-source Python web application that was created in 2021 by Andrew Janco to facilitate participants' work and will be shared with the general public following the grant. The application facilitates the customization of language defaults for tokenization and lookups data.  Cadet also uses token frequency to bulk annotate frequent unambiguous terms and to shorten the time needed for annotation.</Abstract>
+		<AccessModel>Open-source</AccessModel>
+		<Author>Andrew Janco</Author>
+		<PrimaryURL>https://github.com/New-Languages-for-NLP/cadet</PrimaryURL>
+		<PrimaryURLDescription>Source code for Cadet</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Python</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Cadet</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="20793">
+		<ApplicationNumber>HT-272570-20</ApplicationNumber>
+		<Abstract>"Eisenstein" is an open-source Python web application that was built in 2021 by Andrew Janco for participants that needed optical character recognition using Tesseract.  This web application simplifies Tesseract text extraction in over one hundred languages:</Abstract>
+		<AccessModel>Open-source</AccessModel>
+		<Author>Andrew Janco</Author>
+		<PrimaryURL>https://eisenstein.apjan.co/</PrimaryURL>
+		<PrimaryURLDescription>User-facing website</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Python</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://github.com/apjanco/eisenstein</SecondaryURL>
+		<SecondaryURLDescription>Source code</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Eisenstein</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21093">
+		<ApplicationNumber>HC-278125-21</ApplicationNumber>
+		<Abstract>Wrapper around Zekun's model to detect and generate annotations around map labels</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Li, Zekun</Author>
+		<PrimaryURL>https://github.com/machines-reading-maps/map-kurator</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Python</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>MapKurator</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21094">
+		<ApplicationNumber>HC-278125-21</ApplicationNumber>
+		<Abstract>API code for entity recommendation MapKurator/Recogito</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Kim, Jina</Author>
+		<PrimaryURL>https://github.com/machines-reading-maps/entity-recommendation-api</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Python, Dockerfile</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Entity recommendation API</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21331">
+		<ApplicationNumber>HAA-266444-19</ApplicationNumber>
+		<Abstract>Scholars often collect sources, such as government forms or institutional records, intending to transcribe them into datasets which can be analyzed or visualized. This module enables scholars to identify the structure of the data within their sources, speed up the transcription of their sources, and reliably structure their transcriptions in a form amenable to computational analysis. Scholars can turn sources into tables of data stored as numbers, dates, categories, and more. Because this module builds on the Omeka S platform, it allows scholars to display transcriptions alongside the source images and metadata and to publish their results on the web.</Abstract>
+		<AccessModel>open source</AccessModel>
+		<Author>Ken Albers, Megan Brett, Lincoln Mullen, Kim Nguyen, Jessica Otis, Jim Safley</Author>
+		<PrimaryURL>http://datascribe.tech</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL>http://omeka.org</SecondaryURL>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>DataScribe</Title>
+		<Year>2022</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21552">
+		<ApplicationNumber>HAA-269051-20</ApplicationNumber>
+		<Abstract>Major release v21.5 includes an embedded spreadsheet editor for transcribing ledgers, log books, accounts, census sheets, and other tabular data. It also includes a new incomplete status for page transcriptions, an interface language selector, and new PDF/DOCX export and analysis tools.</Abstract>
+		<AccessModel>Open source</AccessModel>
+		<Author>Ben Brumfield, Sara Brumfield</Author>
+		<PrimaryURL>https://github.com/benwbrum/fromthepage/releases/tag/v21.5</PrimaryURL>
+		<PrimaryURLDescription>Link to source code on GitHub</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>FromThePage v21.5</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21553">
+		<ApplicationNumber>HAA-269051-20</ApplicationNumber>
+		<Abstract>Major release v21.7 includes revisions to the transcription status flow, a new "Download" tab letting project owners launch work-specific exports, a footnote tag, and several bug fixes and usability improvements</Abstract>
+		<AccessModel>Open source</AccessModel>
+		<Author>Ben Brumfield, Sara Brumfield</Author>
+		<PrimaryURL>https://github.com/benwbrum/fromthepage/releases/tag/v21.7</PrimaryURL>
+		<PrimaryURLDescription>Source code on GitHub</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>FromThePage v21.7</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21554">
+		<ApplicationNumber>HAA-269051-20</ApplicationNumber>
+		<Abstract>Major release v21.9 includes new export formats for researchers (MS Word, PDF) and for project owners (Static Site), as well as direct integration with textual analysis tools Voyant and Word Trees. It also includes a new reviewer dashboard and the configuration option to restrict the authorized reviewers to a defined set of users.</Abstract>
+		<AccessModel>Open source</AccessModel>
+		<Author>Ben Brumfield, Sar Brumfield</Author>
+		<PrimaryURL>https://github.com/benwbrum/fromthepage/releases/tag/v21.9</PrimaryURL>
+		<PrimaryURLDescription>Source code on GitHub</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>FromThePage v21.9</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21555">
+		<ApplicationNumber>HAA-269051-20</ApplicationNumber>
+		<Abstract>This release adds Spanish and Portuguese translations to new messages for the 21.9 release.</Abstract>
+		<AccessModel>Open Source</AccessModel>
+		<Author>Ben Brumfield, Sara Brumfield, Bryce Mclin, Abisai Perez Zamarripa</Author>
+		<PrimaryURL>https://github.com/benwbrum/fromthepage/releases/tag/v21.9.1</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>FromThePage v21.9 Point Release</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21556">
+		<ApplicationNumber>HAA-269051-20</ApplicationNumber>
+		<Abstract>Major release v22.2 includes a new feature allowing collaborative metadata creation/revision, internationalization support for metadata, and workflow improvements for volunteers and project managers.</Abstract>
+		<AccessModel>Open source</AccessModel>
+		<Author>Ben Brumfield, Sara Brumfield</Author>
+		<PrimaryURL>https://github.com/benwbrum/fromthepage/releases/tag/v22.2</PrimaryURL>
+		<PrimaryURLDescription>Source code on GitHub</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>FromThePage v22.2</Title>
+		<Year>2022</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21605">
+		<ApplicationNumber>HAA-261249-18</ApplicationNumber>
+		<Abstract>This software is meant to help users search texts of any size but especially large ones for any string of interest either within distinct sentences or distinct paragraphs. The utility displays all results in ways that clearly readable, all strings being shown within the context of their expression, sentence by sentence or paragraph by paragraph, all at once. This utility is useful for TEI-XML encoders and others to explore XML files in ways that are fully readable (unhampered by encoding). It is also most useful to any other humanities and social science researchers in need of searching texts SENTENTIALLY. The utility, which supports drag and drop, can display texts with the following file extensions: doc, docx, docm, odt, txt, htm, html, rtf, rtfd, rnc, xml, xsl, odd, rng, and dtd.</Abstract>
+		<AccessModel>free and open access</AccessModel>
+		<Author>André De Tienne</Author>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>LiveCode script / LiveCode
+Platform : Mac and Windows</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Sentential Search</Title>
+		<Year>2022</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21721">
+		<ApplicationNumber>PR-276851-21</ApplicationNumber>
+		<Abstract>This is a new tool on The UniDescription Project's website that allows straightforward and accessible reviews of Audio Description to take place seamlessly, at www.unidescription.org.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Brett Oppegaard</Author>
+		<PrimaryURL>http://www.unidescription.org</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Javascript, HTML</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>UniDescription's uReview tool</Title>
+		<Year>2022</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21810">
+		<ApplicationNumber>HAA-263850-19</ApplicationNumber>
+		<Abstract>CMake project for building Volume Cartographer dependencies from source</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Seth Parker, Stephen Parsons, W. Brent Seales</Author>
+		<PrimaryURL>https://gitlab.com/educelab/vc-deps</PrimaryURL>
+		<PrimaryURLDescription>Code repository</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>C++</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>vc-deps</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21811">
+		<ApplicationNumber>HAA-263850-19</ApplicationNumber>
+		<Abstract>inkid is a Python package and collection of scripts for identifying ink in volumetric CT data using machine learning.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Seth Parker, Stephen Parsons, W. Brent Seales</Author>
+		<PrimaryURL>https://gitlab.com/educelab/ink-id</PrimaryURL>
+		<PrimaryURLDescription>code repository</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Python</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>ink-id</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21812">
+		<ApplicationNumber>HAA-263850-19</ApplicationNumber>
+		<Abstract>smeagol is a C++14 library for creating custom dataflow pipelines that are instrumented for serialization. It was designed to make it easy to convert existing processing workflows into repeatable and observable pipelines for the purposes of experimental reporting, reliability, and validation.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Seth Parker, W. Brent Seales</Author>
+		<PrimaryURL>https://gitlab.com/educelab/smeagol</PrimaryURL>
+		<PrimaryURLDescription>code repository</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>C++</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>smeagol</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21813">
+		<ApplicationNumber>HAA-263850-19</ApplicationNumber>
+		<Abstract>Volume Cartographer is a cross-platform C++ library and toolkit for virtually unwrapping volumetric datasets. It was designed to recover text from CT scans of ancient, badly damaged manuscripts, but can be applied in many volumetric analysis applications.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Seth Parker, W. Brent Seales, Stephen Parsons</Author>
+		<PrimaryURL>https://gitlab.com/educelab/volume-cartographer</PrimaryURL>
+		<PrimaryURLDescription>code repository</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>C++</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Volume Cartographer</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21834">
+		<ApplicationNumber>MD-277081-21</ApplicationNumber>
+		<Abstract>The project created a user mock up of the digital experience module exploring Thomas Cole's "A River in the Catskills" painting. The mock up allows users to click and "enter" a painting using parallax technology, converse with historic figures, and select different conversation responses that bring users to different outcomes. The historic figures and conversations are based in primary source research and present diverse views on the local experience of industrialization, shedding light on the national debate of preservation vs. development that this country continues to grapple with today.</Abstract>
+		<AccessModel>Open access</AccessModel>
+		<Author>Thomas Cole National Historic Site</Author>
+		<PrimaryURL>https://play.unity.com/mg/other/builds-vp-1</PrimaryURL>
+		<PrimaryURLDescription>The user mock up of the digital game</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Unity</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://www.dropbox.com/s/txy7hmn8ib7f6l9/ColeWalkthru2022-04-29.mov?dl=0</SecondaryURL>
+		<SecondaryURLDescription>Video screen share of the developer going through the mock up of the digital game</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Thomas Cole National Historic Site Digital Game - Use Mock Up</Title>
+		<Year>2022</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="21960">
+		<ApplicationNumber>HAA-261249-18</ApplicationNumber>
+		<Abstract>"Lexical Tools" is a set of several utilities focused on the search of English terms and concepts. At its core is the principal utility "Search English Words," which lets users search at once the definitions and synonyms of all sorts of English words from a list of no fewer than 413,765 words across multiple dictionaries (about 40). That list comes in part from the web archive source infochimps.com (© 2013 Infochimp) and some other sources, including a good 200 words coming from Charles Peirce's philosophical, logical, and semiotic lexicon.  "Lexical Tools" includes besides five other utilities allowing (1) users to add words to the default list; (2) create, compare, and augment custom lists of words; and (3, 4, and 5) search with enhanced efficiency (within a combined sub-application named "Specialized Dictionaries") a large portion of the classic Dictionary of Philosophy and Psychology edited by James Mark Baldwin at the turn of the twentieth century, the Commens Dictionary: Peirce's Terms in His Own Words, and Runes's celebrated Dictionary of Philosophy of 1942. Peirce contributed significant definitions in logic to Baldwin's dictionary, and several entries in Runes's dictionary refer to him.</Abstract>
+		<AccessModel>It is intended for free distribution. Only the source code created by the author is available.</AccessModel>
+		<Author>André De Tienne</Author>
+		<PrimaryURL>https://peirce.iupui.edu/technology.html#lexicaltools</PrimaryURL>
+		<PrimaryURLDescription>This is not a live URL yet, but is the most likely address that will be used to provide download access to the software, within the Technology tab of the Peirce Edition Project's website.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>LiveCode
+Platform of creation: MacOS
+Platform for distribution: MacOS, Windows, Linux</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Lexical Tools</Title>
+		<Year>2022</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="22095">
+		<ApplicationNumber>HAA-271574-20</ApplicationNumber>
+		<Abstract>PlacePress, a modern WordPress plugin, adds Location and Tour post types, structured map blocks (for single and global locations), structured tour stop blocks, and custom taxonomies.</Abstract>
+		<AccessModel>Open source</AccessModel>
+		<Author>Erin J. Bell</Author>
+		<PrimaryURL>https://wordpress.org/plugins/placepress/</PrimaryURL>
+		<PrimaryURLDescription>WordPress Plugin Directory page</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL>http://wpplacepress.org</SecondaryURL>
+		<SecondaryURLDescription>The PlacePress website is the primary discovery site for the plugin. It offers a robust user guide, accessibility statement demo site, and project showcase.</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>PlacePress</Title>
+		<Year>2020</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="22464">
+		<ApplicationNumber>PD-260981-18</ApplicationNumber>
+		<Abstract>The COLRC is a digital toolkit for data storage and retrieval specifically designed for the Couer d'Alene language and people.</Abstract>
+		<AccessModel>Open access</AccessModel>
+		<Author>Shannon Bischoff, Amy Fountain, John Ivens, Audra Vincent</Author>
+		<PrimaryURL>http://lasrv01.pfw.edu/COLRC/reichard.php</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>The COLRC 2.0</Title>
+		<Year>2022</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="22591">
+		<ApplicationNumber>PR-263944-19</ApplicationNumber>
+		<Abstract>The latest version of the command line interface (CLI) tools for DVRescue. Archivist-made software that supports data migration from DV tapes into digital files suitable for long-term preservation.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Rice, Dave, Martinez, Jerome, Weaver, Andrew, Hopfauf, Libby, Blewer, Ashley, Gervais, Maxime, MIPoPS, RiceCapades</Author>
+		<PrimaryURL>https://mediaarea.net/download/snapshots/binary/dvrescue/</PrimaryURL>
+		<PrimaryURLDescription>link to install version 2022-11-28 6 of the CLI</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Languages: C++ (35.8%), QML (25.2%), NSIS (16.9%), Shell (16.8%), QMake (1.6%), Objective-C (1.6%), Other (2.1%)
+
+Platforms: macOS, Linux, Windows</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://mediaarea.net/DVRescue</SecondaryURL>
+		<SecondaryURLDescription>link to MediaArea's DVRescue download page</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>DVRecue CLI (version 2022-11-28 6)</Title>
+		<Year>2022</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="22592">
+		<ApplicationNumber>PR-263944-19</ApplicationNumber>
+		<Abstract>The latest version of the graphic user interface (GUI) tools for DVRescue. Archivist-made software that supports data migration from DV tapes into digital files suitable for long-term preservation.</Abstract>
+		<AccessModel/>
+		<Author>Gervais, Maxime, RiceCapades, MIPoPS, Rice, Dave, Hopfauf, Libby, Weaver, Andrew, Blewer, Ashley, Martinez, Jérôme</Author>
+		<PrimaryURL>https://mediaarea.net/download/snapshots/binary/dvrescue-gui/20221128-6/</PrimaryURL>
+		<PrimaryURLDescription>download link for version 2022-11-28 6 of the DVRescue GUI</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Languages: C++ (35.8%), QML (25.2%), NSIS (16.9%), Shell (16.8%), QMake (1.6%), Objective-C (1.6%), Other (2.1%)
+
+Platforms: macOS, Linux, Windows</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://mediaarea.net/DVRescue</SecondaryURL>
+		<SecondaryURLDescription>link to MediaArea's DVRescue download page</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>DVRescue GUI (version 2022-11-28 6)</Title>
+		<Year>2022</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="22926">
+		<ApplicationNumber>HT-267285-19</ApplicationNumber>
+		<Abstract>The eXist-db App Initializer is a lightweight bash shell script that creates the housekeeping files needed to build and install an eXist-db package into an instance of the database.</Abstract>
+		<AccessModel>Open-source (GPL3 license)</AccessModel>
+		<Author>Gabi Keane, David J. Birnbaum, Leif-Jöran Olsson</Author>
+		<PrimaryURL>https://github.com/Pittsburgh-NEH-Institute/initializer</PrimaryURL>
+		<PrimaryURLDescription>Source code and instructions for using the Initializer.</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Bash shell script</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>eXist-db app initializer shell script</Title>
+		<Year>2022</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="23021">
+		<ApplicationNumber>FN-266285-19</ApplicationNumber>
+		<Abstract>csv2rmd: a Python program to produce multimedia dictionaries with Markdown.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>Saulo Brito, Joshua Birchall</Author>
+		<PrimaryURL>https://doi.org/10.5281/zenodo.6642438</PrimaryURL>
+		<PrimaryURLDescription>Alpha public release (version 0.1)</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>Python</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://github.com/SauloRTB/Csv2Rmd</SecondaryURL>
+		<SecondaryURLDescription>Github repository</SecondaryURLDescription>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>csv2rmd: Um programa python para produzir dicionários multimídia com Markdown</Title>
+		<Year>2022</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="23023">
+		<ApplicationNumber>FN-266285-19</ApplicationNumber>
+		<Abstract>Multimedia dictionary app developed with the Oro Win community of Brazil.</Abstract>
+		<AccessModel>Currently only available through physical transfer until a revised version is released.</AccessModel>
+		<Author>Joshua Birchall, Silvania Oro Eo' Cabixi, Luciano Oro Win</Author>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>APK</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>No</SourceAvailable>
+		<Title>Dicionário Oro Win</Title>
+		<Year>2022</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="24284">
+		<ApplicationNumber>HAA-258717-18</ApplicationNumber>
+		<Abstract>Code for cleaning, parsing, modifying, and loading data into the database. Versioned and repositoried in 2022.</Abstract>
+		<AccessModel>Open Access</AccessModel>
+		<Author>Todd Hugie, Dustin Olson, Derek Miller, Mattie Burkert</Author>
+		<PrimaryURL>https://github.com/LondonStageDB/database-code/releases/tag/v1.0</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>Python</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://doi.org/10.5281/zenodo.7328443</SecondaryURL>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>London Stage Database - Database Code</Title>
+		<Year>2022</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="24285">
+		<ApplicationNumber>HAA-258717-18</ApplicationNumber>
+		<Abstract>This repository includes all the files needed to replicate the London Stage Database website on your server. Versioned and repositoried in 2022.</Abstract>
+		<AccessModel>Open access</AccessModel>
+		<Author>Dustin Olson, Cameron Seright, John Zhao, Daniel Mundra, Mattie Burkert</Author>
+		<PrimaryURL>https://github.com/LondonStageDB/website/tree/v2.1</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>PHP</ProgrammingLanguage_Platform>
+		<SecondaryURL>https://doi.org/10.5281/zenodo.7328436</SecondaryURL>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>London Stage Database - Website Code</Title>
+		<Year>2022</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="24420">
+		<ApplicationNumber>PR-276897-21</ApplicationNumber>
+		<Abstract>DVRescue supports improving DV files that have already been created by allowing such files to be assessed, so that the software may selectively retry portions of the tape and incorporate any improvements into the existing file. Funded by the National Endowment for the Humanities; designed and led by Dave Rice and the Moving Image Preservation of Puget Sound (MIPoPS); developed by MediaArea.</Abstract>
+		<AccessModel>open acess</AccessModel>
+		<Author>MIPoPS, RiceCapades, MediaArea</Author>
+		<PrimaryURL>https://mediaarea.net/DVRescue</PrimaryURL>
+		<PrimaryURLDescription>Link to releases of software on MediaArea's platform</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>C++ (37.5%); QML (24.7%); NSIS (16.1%); Shell (16.0%); Objective-C (1.8%); QMake (1.6%); Other (2.3%)</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>DVRescue</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="24421">
+		<ApplicationNumber>PR-276897-21</ApplicationNumber>
+		<Abstract>Daily builds of the command line interface version of the DVRescue toolkit.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>MIPoPS, MediaArea, RiceCapade</Author>
+		<PrimaryURL>https://old.mediaarea.net/download/snapshots/binary/dvrescue/</PrimaryURL>
+		<PrimaryURLDescription/>
+		<ProgrammingLanguage_Platform>C++ (37.5%); QML (24.7%); NSIS (16.1%); Shell (16.0%); Objective-C (1.8%); QMake (1.6%); Other (2.3%)</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>DVRescue CLI daily builds</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="24422">
+		<ApplicationNumber>PR-276897-21</ApplicationNumber>
+		<Abstract>The Digital Video Commander project seeks to reframe the entire paradigm of preservation when applied to digital videotapes rather than adopt upon the practices used for analog videotape. Capturing the contents of a digital videotape does not need to be as restrained as attempting to record an ideal, singular presentation of a videotape, but there is a potential that such effort could mimic the more accurate data transfers of hard drives or sectored optical discs where the quality of the data transferred could be verified piece-by-piece and retried as needed to create a more accurate result.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>MediaArea, MIPoPS, RiceCapades</Author>
+		<PrimaryURL>https://github.com/mipops/digividcommander</PrimaryURL>
+		<PrimaryURLDescription>Link to GitHub repository</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>C++ (99.4%); QMake (0.6%)</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>Digital Video Commander</Title>
+		<Year>2021</Year>
+	</ComputerProgram>
+	<ComputerProgram ID="24423">
+		<ApplicationNumber>PR-276897-21</ApplicationNumber>
+		<Abstract>Daily builds for the graphic user interface version of the DVRescue toolkit.</Abstract>
+		<AccessModel>open access</AccessModel>
+		<Author>MIPoPS, RiceCapades, MediaArea</Author>
+		<PrimaryURL>https://old.mediaarea.net/download/snapshots/binary/dvrescue-gui/</PrimaryURL>
+		<PrimaryURLDescription>Link to the daily builds on MediaArea's platform</PrimaryURLDescription>
+		<ProgrammingLanguage_Platform>C++ (37.5%); QML (24.7%); NSIS (16.1%); Shell (16.0%); Objective-C (1.8%); QMake (1.6%); Other (2.3%)</ProgrammingLanguage_Platform>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<SourceAvailable>Yes</SourceAvailable>
+		<Title>DVRescue GUI daily builds</Title>
+		<Year>2019</Year>
+	</ComputerProgram>
+</ComputerPrograms>

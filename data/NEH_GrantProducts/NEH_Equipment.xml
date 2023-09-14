@@ -1,0 +1,359 @@
+<Equipment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NEH_Equipment.xsd">
+	<Item ID="1292">
+		<ApplicationNumber>PA-51137-05</ApplicationNumber>
+		<Description>Purchase of UV roller shades and 90% UV protection broze mylar shades</Description>
+		<Location>Wentworth Coolidge Mansion State Historic Site, Portsmouth NH</Location>
+		<Name>Light Protection</Name>
+		<Year>2006</Year>
+	</Item>
+	<Item ID="14036">
+		<ApplicationNumber>PG-252807-17</ApplicationNumber>
+		<Description>Dahle Premium 43" Large Format Guillotine Paper Trimmer</Description>
+		<Location>Edmond, OK</Location>
+		<Name>Dahle Large Format paper trimmer</Name>
+		<Year>2017</Year>
+	</Item>
+	<Item ID="15594">
+		<ApplicationNumber>PG-258259-18</ApplicationNumber>
+		<Description>Two five-drawer flat file cabinets used for storage of oversize collection materials, such as maps, posters, certificates and photographs, and a library ladder.</Description>
+		<Location>Basque Museum &amp;amp; Cultural Center, Boise, Idaho</Location>
+		<Name>Flat file cabinets and library ladder</Name>
+		<Year>2018</Year>
+	</Item>
+	<Item ID="16674">
+		<ApplicationNumber>PG-263474-19</ApplicationNumber>
+		<Description>100 count unbuffered 10 pt. folder stock, used to create enclosures for oversized building plans and landscape drawings</Description>
+		<Location>Rod Library, University of Northern Iowa (Cedar Falls, IA)</Location>
+		<Name>folder stock</Name>
+		<Year>2019</Year>
+	</Item>
+	<Item ID="16685">
+		<ApplicationNumber>PG-263605-19</ApplicationNumber>
+		<Description>Wall hanging system for rolled textile collections abd a PEM2 datalogger for environmental monitoring of the new storage area</Description>
+		<Location>Archives, University Library, Colorado State University-Pueblo</Location>
+		<Name>Shelving and Environmental Monitor</Name>
+		<Year>2019</Year>
+	</Item>
+	<Item ID="16699">
+		<ApplicationNumber>PG-266577-19</ApplicationNumber>
+		<Description>Mega Safe Burglary &amp;amp; Fire Safe Cabinet MBF2020E 2 Hr Fire Rating, Digital Lock, 22"W x 22"D x 22-1/2" H</Description>
+		<Location>John Hair Cultural Center &amp;amp; Museum, Tahlequah, OK</Location>
+		<Name>Mega Safe</Name>
+		<Year>2019</Year>
+	</Item>
+	<Item ID="16962">
+		<ApplicationNumber>PG-266753-19</ApplicationNumber>
+		<Description>Archival quality, powder coated, lockable, storage cabinet for three-dimensional artwork</Description>
+		<Location>Utah</Location>
+		<Name>Archival Storage Cabinet</Name>
+		<Year>2020</Year>
+	</Item>
+	<Item ID="17043">
+		<ApplicationNumber>PG-266736-19</ApplicationNumber>
+		<Description>Light meters and data loggers to monitor the environment in the library, museum and 2 historic houses</Description>
+		<Location>Luzerne County Historical Society Library, Museum, Nathan Denison House, Swetland Homestead</Location>
+		<Name>Lux Light Meter and MX1101 data logger</Name>
+		<Year>2019</Year>
+	</Item>
+	<Item ID="17089">
+		<ApplicationNumber>PG-266620-19</ApplicationNumber>
+		<Description>Two (2) units of Montel High Density Mobile Shelving installed on an existing track system in the AMC Library &amp;amp; Archives to accomodate 224 cubic feet of archives collections materials.</Description>
+		<Location>Appalachian Mountain Club Library &amp;amp; Archives, AMC Highland Center at Crawford Notch, Bretton Woods, New Hampshire</Location>
+		<Name>Two (2) units of Montel High Density Mobile Shelving</Name>
+		<Year>2020</Year>
+	</Item>
+	<Item ID="17141">
+		<ApplicationNumber>PG-266611-19</ApplicationNumber>
+		<Description>Specialty shelving for fine-arts storage</Description>
+		<Location>Boston, MA</Location>
+		<Name>Shelving for large framed prints/paintings</Name>
+		<Year>2020</Year>
+	</Item>
+	<Item ID="17186">
+		<ApplicationNumber>PG-266735-19</ApplicationNumber>
+		<Description>Archival steel mobile compact shelving that moves on rails.</Description>
+		<Location>329 W. 18th Street  Suite 302 Chicago, IL  60616</Location>
+		<Name>Archival shelving</Name>
+		<Year>2019</Year>
+	</Item>
+	<Item ID="17232">
+		<ApplicationNumber>PG-266715-19</ApplicationNumber>
+		<Description>The equipment comprised five Disaster Response Supply Cans containing the following emergency supplies (see photos in Article):  CONTAINERS 15-gallon bucket 133-gallon trash can 10Large plastic trash bags and 14" zip ties GENERAL SUPPLIES  1notepad 2 markers 1 boxSharpened pencils 2scissors 1Packing tape dispenser and 2 rolls of tape 1Box cutter with 2 replacement blades inside 1 rollDuct tape 1Self-standing Atomic Beam lantern w/batteries 3AAA backup batteries (attached to inside of trash can lid)  150-ft extension cord FOR LEAKS OR PROTECTION FROM SPRINKLERS 1 roll10' x 100' 4mil plastic sheeting 1 spoolNylon string (to hang sheeting) 2Large sponges 2 rollsPaper towels 5New Pig re-usable absorbent socks (blue) 20New Pig disposable absorbent mats (black) FOR PERSONAL PROTECTION 2 pairsLeather gloves 1 boxNitrile gloves 10 Plastic smocks 1 boxN95 masks 2Plastic goggles</Description>
+		<Location>Santa Rosa, Petaluma, Healdsburg, and Rohnert Park of California</Location>
+		<Name>Disaster Response Supply Cans</Name>
+		<Year>2019</Year>
+	</Item>
+	<Item ID="17277">
+		<ApplicationNumber>PG-262249-19</ApplicationNumber>
+		<Description>1 (one) Montel High Density Mechanical Assist Mobile Shelving Carriage added to existing floor rail and shelving system.</Description>
+		<Location>Appalachian Mountain Club Library &amp;amp; Archives, AMC Highland Center at Crawford Notch, Bretton Woods, New Hampshire</Location>
+		<Name>Montel High Density Mobile Shelving</Name>
+		<Year>2020</Year>
+	</Item>
+	<Item ID="18075">
+		<ApplicationNumber>PF-266604-19</ApplicationNumber>
+		<Description>Upon receipt of the grant in late 2019, the Poetry Center worked with Phoenix-based firm Interior Solutions to design a Spacesaver mechanical-assist high-density mobile storage system for the Poetry Center's Archives Room. Funding from the NEH was used to purchase this system, which added 1200 linear feet of shelving space to our Archives storage capacity.</Description>
+		<Location>The University of Arizona Poetry Center, Tucson, Arizona</Location>
+		<Name>Spacesaver Mechanical-Assist High-Density Storage</Name>
+		<Year>2019</Year>
+	</Item>
+	<Item ID="18137">
+		<ApplicationNumber>PF-266683-19</ApplicationNumber>
+		<Description>Two Daikin chillers were purchased, installed, and connected to system controls to improve temperature and relative humidity controls at the Chicago History Museum's main facility.</Description>
+		<Location>Chicago History Museum, 1601 N. Clark St., Chicago IL</Location>
+		<Name>Daikin chillers</Name>
+		<Year>2020</Year>
+	</Item>
+	<Item ID="18229">
+		<ApplicationNumber>PG-271695-20</ApplicationNumber>
+		<Description>REACH-IN FREEZER  True Manufacturing Co., Inc. Model No. 4024928 Freezer, reach-in, two-section, -10°F, (2) stainless steel doors, (6) PVC coated adjustable wire shelves, interior lighting, stainless steel front, aluminum sides, aluminum interior with stainless steel floor, 4" castors, R290 Hydrocarbon refrigerant, 1 HP, 115v/60/1-ph, 9.6 amps, NEMA 5-15P, Made in USA, cULus, UL EPH Classified, ENERGY STAR® Dimensions 78.38(h) x 54.13(w) x 29.5(d)  REACH-IN REFRIGERATOR  True Manufacturing Co., Inc. Model No. 3547083 Refrigerator, reach-in, three-section, (3) stainless steel doors, (9) PVC coated adjustable wire shelves, interior lighting, stainless steel front, aluminum sides, aluminum interior with stainless steel floor, 4" castors, R290 Hydrocarbon refrigerant, 3/4 HP, 115v/60/1-ph, 6.9 amps, NEMA 5-15P, cULus, UL EPH Classified, Made in USA Dimensions 78.38(h) x 78.13(w) x 29.5(d) Weight: 575 lbs total</Description>
+		<Location>CFA  329 W. 18th Street  #317, Chicago, IL  60616</Location>
+		<Name>Refrigerator and Freezer</Name>
+		<Year>2020</Year>
+	</Item>
+	<Item ID="18382">
+		<ApplicationNumber>AV-265985-19</ApplicationNumber>
+		<Description>Purchased 3 desktop computers</Description>
+		<Location>Veterans Resource Center</Location>
+		<Name>Desktop Computers</Name>
+		<Year>2019</Year>
+	</Item>
+	<Item ID="18728">
+		<ApplicationNumber>PG-263619-19</ApplicationNumber>
+		<Description>Acquisition of two 'Just-in-case Case Disaster Kit' which is a complete disaster preparedness kit with a in a medium size. Supplied as two boxes, no transit trolley. A vas variety of supplies need in one place, sealed to ensure items are not removed until required. The 34 piece kit comprised of 273 individual items, covering Personal Protective Equipment, Clean-up, Survey and Damage Recording, Illumination, Water Barriers and absorbent materials, and emergency tools. The kit has been created with the experience and support of conservators, curators, archivists, librarians and collection managers. The kit is designed to be used primarily by a 2 person team and provides a range of items to prevent further damage, document damage and then clean-up. The just-in-case disaster supplies kit is intended for use in small scale disasters such as flooding, exposure to elements or dust ingress. Each kit is sealed to prevent misuse of contents.</Description>
+		<Location>In the Museo de Arte de Puerto Rico "Sala de estudio e investigación" library and the "Centro de docuentación y estudios curatoriales" archive.</Location>
+		<Name>Disaster preparedness kit</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="18881">
+		<ApplicationNumber>PG-266728-19</ApplicationNumber>
+		<Description>Onset Environmental Data Loggers used to track the temperature/humidity levels every 15 minutes.</Description>
+		<Location>Travellers Rest Historic House Museum, Nashville, TN</Location>
+		<Name>Onset Data Loggers</Name>
+		<Year>2019</Year>
+	</Item>
+	<Item ID="18940">
+		<ApplicationNumber>PG-271818-20</ApplicationNumber>
+		<Description>Archive holding room newly created within the National Historic Landmark Auditorium Theatre venue, and outfitted with specialized archive storage equipment.</Description>
+		<Location>Auditorium Theatre, 50 E Ida B Wells Dr at Roosevelt University, Chicago, IL 60605</Location>
+		<Name>Auditorium Theatre Archives Room</Name>
+		<Year>2020</Year>
+	</Item>
+	<Item ID="19005">
+		<ApplicationNumber>PR-258900-18</ApplicationNumber>
+		<Description>U.S. Patent Application  16/937,045. A three-dimensional (3D) imaging system includes a mobile device that has a display screen configured to display a series of patterns onto an object that is to be imaged. The mobile device also includes a front-facing camera configured to capture reflections of the series of patterns off of the object. The system also includes a controller that is configured to control a timing of the series of patterns that appear on the display screen and activation of the front-facing camera in relation to the appearance of the series of patterns.</Description>
+		<Location>Northwestern University</Location>
+		<Name>Method and system for three-dimensional surface measurement with a mobile device</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="19360">
+		<ApplicationNumber>PG-266669-19</ApplicationNumber>
+		<Description>2-channel Testo Mini Temperature &amp;amp; Humidity Data Logger Starter Kit  is ideal for the continuous monitoring of temperature and humidity. The digital display can be programmed for measurement cycles from 1 minute to 24 hours and stores 16,000 readings.</Description>
+		<Location>permanent collection storage room</Location>
+		<Name>Testo Mini Temperature &amp;amp; Humidity Data Logger Starter Kit</Name>
+		<Year>2020</Year>
+	</Item>
+	<Item ID="19383">
+		<ApplicationNumber>PG-266734-19</ApplicationNumber>
+		<Description>Purchased with this grant: Vertical Art Storage with Dividers 40H x 48W x 40D Safco Horizontal 10 and 5 Drawer Flat Files 30x42 plus 6" base Artcare Foam Core 32 x 40 Adjustable Wire Shelving 48 x 24</Description>
+		<Location>Chester County History Center - Horticultural Hall museum storage</Location>
+		<Name>no name - improved storage space</Name>
+		<Year>2020</Year>
+	</Item>
+	<Item ID="19420">
+		<ApplicationNumber>PG-271696-20</ApplicationNumber>
+		<Description>325 x Archival 3" film cores 87 x Archival 8mm Film Reel and Can set  296 x Archival 16mm cans 400' each 10 x Archival 16mm cans 800' each  19 x Archival 16mm cans 2000' each 500 x Archival 10pt Folder Stock 10" LP Record Envelopes  250 x Archival 10pt Folder Stock 17" LP Record Envelopes  25 x Archival Flip-Top 10" LP Record Boxes 12 x Archival Flip-Top 16" LP Record Boxes 3 x Kodak molecular sieves 120 count 12.5 gram packets</Description>
+		<Location>Knoxville, Tennessee</Location>
+		<Name>Archival storage supplies</Name>
+		<Year>2020</Year>
+	</Item>
+	<Item ID="19694">
+		<ApplicationNumber>PG-271759-20</ApplicationNumber>
+		<Description>Box Storage Shelving Unit      Spacesaver® 4-Post shelving: 48"w x 18"d x 76 ¼" h.      Eleven levels of shelving, each 5 ¼" clear between.      Bottom shelf is 8 ¾" above the floor.      Unit installed by SLM.  Work Space with Drawers      Spacesaver® 4-Post shelving. 60"w x 36"d x 34 ¼" h       Closed upright design with (6) six 4" tall trays for storage of oversized flat objects.      Standing height to provide additional workspace.      Unit installed by SLM  One section of Spacesaver® 4-Post shelving. 36"w x 24"d x 76¼" h.      Three openings with bin dividers, minimum of 21 ¾" clear.       Unit installed by SLM.</Description>
+		<Location>Washington County Museum of Fine Arts, Painting Vault</Location>
+		<Name>shelving units, storage unit with pull-out trays</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="19754">
+		<ApplicationNumber>PG-271700-20</ApplicationNumber>
+		<Description>archival boxes archival tissue paper archival folders photo sleeves long photo boxes nitrile gloves LED bulbs UV blocking film 3 large custom boxes for target kites artifact tags 3 large shelving units</Description>
+		<Location>Arthurdale, West Virginia</Location>
+		<Name>Arthurdale Archival Materials</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="19792">
+		<ApplicationNumber>PG-271776-20</ApplicationNumber>
+		<Description>Air Conditioner for the collections room to keep temperature stable</Description>
+		<Location>Installed in 2nd floor collections room</Location>
+		<Name>Air conditioner</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="19793">
+		<ApplicationNumber>PG-271776-20</ApplicationNumber>
+		<Description>Dehumidifier to keep moisture levels stable</Description>
+		<Location>Installed in the 2nd floor collections room</Location>
+		<Name>Dehumidifer</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="19794">
+		<ApplicationNumber>PG-271776-20</ApplicationNumber>
+		<Description>Modern Office Systems created custom shelving units to fit the unusual attic dimensions of the 2nd floor collections room. This maximized the small space for additional storage, allowed for air flow and permitted room for a table and chair as a work station.</Description>
+		<Location>2nd floor collections room</Location>
+		<Name>Modern Office Systems shelving units</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="19851">
+		<ApplicationNumber>PG-271802-20</ApplicationNumber>
+		<Description>6 powder-coated steel cabinets to house the Whaling Museum's 34 archival collections, and collection of logbooks, ledgers, and rare books.</Description>
+		<Location>The Whaling Museum &amp;amp; Education Center</Location>
+		<Name>Storage cabinets for archives</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="19852">
+		<ApplicationNumber>PG-271802-20</ApplicationNumber>
+		<Description>2 powder-coated steel shelving units to make space for the Whaling Museum's collection of small and medium sized nautical tools.</Description>
+		<Location>The Whaling Museum</Location>
+		<Name>Shelving units</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="19853">
+		<ApplicationNumber>PG-271802-20</ApplicationNumber>
+		<Description>2 powder-coated steel cubby units for oversized and medium frames. The museum's existing moving racks were at capacity, and these frames were previously stored resting on the floor of collections storage.  These frames are now housed safely on the cubbies with blue board interleaving.</Description>
+		<Location>The Whaling Museum</Location>
+		<Name>Cubby Units</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="19854">
+		<ApplicationNumber>PG-271802-20</ApplicationNumber>
+		<Description>2 new data loggers for collection storage. The existing units were 10 years old and were becoming unreliable.</Description>
+		<Location>The Whaling Museum</Location>
+		<Name>Data Loggers</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="19855">
+		<ApplicationNumber>PG-271802-20</ApplicationNumber>
+		<Description>Preservation Supplies to rehouse loose archival material including: folders, interleaving sheets, boxes, blueboard, and eraser crumbs</Description>
+		<Location>The Whaling Museum</Location>
+		<Name>Rehousing for loose archival material</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="19856">
+		<ApplicationNumber>PG-271802-20</ApplicationNumber>
+		<Description>Rehousing supplies for bound objects: Blueboard, book trays, clamshell boxes, acid-free tissue paper, ethafoam blocks, and foam sheets   (Created custom inserts for fragile books inside pre-made boxes)</Description>
+		<Location>The Whaling Museum</Location>
+		<Name>Rehousing Bound Objects</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="19857">
+		<ApplicationNumber>PG-271802-20</ApplicationNumber>
+		<Description>Rehousing Textiles: Tyvek cloth, unbleached muslin, acid-free tissue paper, blueboard sheets, boxes, ethafoam, and foam sheets  (rehoused 19th century textiles with adequate support to minimize creases and in material that will not react to the textiles during long-term storage)</Description>
+		<Location>The Whaling Museum</Location>
+		<Name>Rehousing Textiles</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="19858">
+		<ApplicationNumber>PG-271802-20</ApplicationNumber>
+		<Description>Rehousing Postcards and Photographs: Photo-marking pencil, book weights, plastic sleeves of various sizes that have passed the Photographic Activity Test  (these sleeves were added to existing solander binder-boxes and will allow researchers to view the collections while also reducing handling)</Description>
+		<Location>The Whaling Museum</Location>
+		<Name>Rehousing Postcards and Photographs</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="19859">
+		<ApplicationNumber>PG-271802-20</ApplicationNumber>
+		<Description>Rehousing Small Nautical Tools: Tyvek cloth, clamshell boxes, blueboard sheets, blueboard trays, ethafoam, foam sheets, acid-free tissue, poly-propylene pellets, and stockinette tubing  (creating custom supports for 50% of the collection of small and medium tools)</Description>
+		<Location>The Whaling Museum</Location>
+		<Name>Rehousing Small Nautical Tools</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="19880">
+		<ApplicationNumber>PG-252848-17</ApplicationNumber>
+		<Description>Purchase: Security system; caution tape; particulate respirators; paper towels; cleaning and washing sponges; spout pail; high-density painters plastic sheeting; trash bags; masking tape; plastic storage bin</Description>
+		<Location>Women's Museum of California Collections Department</Location>
+		<Name>Emergency/Disaster Preparedness Supplies</Name>
+		<Year>2018</Year>
+	</Item>
+	<Item ID="19881">
+		<ApplicationNumber>PG-252848-17</ApplicationNumber>
+		<Description>Purchase: Yellow Hard Hats; Splash Goggles; Minature Flashlights, first aid kit</Description>
+		<Location>Women's Museum of California Collections Department</Location>
+		<Name>Emergency/Disaster Preparedness Equipment and Supplies</Name>
+		<Year>2018</Year>
+	</Item>
+	<Item ID="19882">
+		<ApplicationNumber>PG-252848-17</ApplicationNumber>
+		<Description>disposable bib aprons, nitrile gloves</Description>
+		<Location>Women's Museum of California Collections Department</Location>
+		<Name>Emergency/Disaster Preparedness supplies</Name>
+		<Year>2018</Year>
+	</Item>
+	<Item ID="21039">
+		<ApplicationNumber>HC-278119-21</ApplicationNumber>
+		<Description>Huntington Chief Photographer John Sullivan built a lightbox for infrared photography using infrared security lights and clear plexiglass.</Description>
+		<Location>San Marino, CA</Location>
+		<Name>Infrared light box</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="21049">
+		<ApplicationNumber>PG-271390-20</ApplicationNumber>
+		<Description>Working with the conservator, Ron Harvey, safe  housing and storage shelving for Good Will-Hinckley historic objects and documents was developed and installed. The product is the safe storage of important materials that tell the history of inland Maine and Good Will Home for Children.</Description>
+		<Location>L.C.Bates Museum in Hinckley, ME</Location>
+		<Name>Historic Good Will-Hinckley Archives and  Museum Objects</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="21865">
+		<ApplicationNumber>PG-271851-20</ApplicationNumber>
+		<Description>Archival quality 6-drawer Viking flat file unit with floor base.</Description>
+		<Location>Main collections storage, Lyman Allyn Art Museum</Location>
+		<Name>Viking/ Spacesaver Flat File (3) plus base.</Name>
+		<Year>2021</Year>
+	</Item>
+	<Item ID="21981">
+		<ApplicationNumber>GI-278338-21</ApplicationNumber>
+		<Description>With permission from NEH, we purchased a Graphtec CE7000-1300 vinyl cutter plotter from US Cutter to produce signage for the reinstalled galleries. The Graphtec CE7000 Vinyl Plotter Series is equipped with features such as a registration mark sensor for print &amp;amp; cut jobs, perforation cutting ability and a guaranteed cut accuracy of over 15ft at an extremely competitive and cost effective price point.</Description>
+		<Location>Vendor located in Tukwila, WA. Equipment resides at the Spencer Museum of Art.</Location>
+		<Name>Graphtec CE7000-1300 Vinyl Cutter Plotter</Name>
+		<Year>2022</Year>
+	</Item>
+	<Item ID="22003">
+		<ApplicationNumber>AKA-279432-21</ApplicationNumber>
+		<Description>With NEH support, we created and printed several thousand trifold pamphlets about the initiative and the enduring relevance of history to CEHC and SPH.</Description>
+		<Location>University at Albany-SUNY</Location>
+		<Name>Trifold pamphlets</Name>
+		<Year>2022</Year>
+	</Item>
+	<Item ID="22249">
+		<ApplicationNumber>PG-266756-19</ApplicationNumber>
+		<Description>Qty. 2 freezers for long term cold storage</Description>
+		<Location>Santa Monica History Museum, Santa Monica, CA</Location>
+		<Name>GE Garage-Ready 21.3 cubic foot upright freezers</Name>
+		<Year>2022</Year>
+	</Item>
+	<Item ID="22267">
+		<ApplicationNumber>PG-280771-21</ApplicationNumber>
+		<Description>12 data loggers to monitor the climate in the museum.</Description>
+		<Location>Old Stone House Museum, Cyrus Eaton House, Alexander Twilight Administrative Building, Grammar School Building</Location>
+		<Name>Hanwell data logger</Name>
+		<Year>2022</Year>
+	</Item>
+	<Item ID="22268">
+		<ApplicationNumber>PG-280771-21</ApplicationNumber>
+		<Description>11 metal shelving units to house artifacts.</Description>
+		<Location>Grammar School Building Basement</Location>
+		<Name>Shelves</Name>
+		<Year>2022</Year>
+	</Item>
+	<Item ID="22269">
+		<ApplicationNumber>PG-280771-21</ApplicationNumber>
+		<Description>Epoxy paint</Description>
+		<Location>Grammar School Building Basement</Location>
+		<Name>Epoxy Paint</Name>
+		<Year>2022</Year>
+	</Item>
+	<Item ID="22943">
+		<ApplicationNumber>PG-280620-21</ApplicationNumber>
+		<Description>The storage space in the second floor of the L. C. Bates Museum was enlarged by 6 sheving units that hold newly housed archival and object collections that document and tell the story of Good WIl-Hincckey and childcare. Many of the objects also interpert Maine history..</Description>
+		<Location>L.C.Bates Museum, 14 Easer Road, Hinckly, ME 04944</Location>
+		<Name>Storage Housing and  Shelving</Name>
+		<Year>2022</Year>
+	</Item>
+</Equipment>

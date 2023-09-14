@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="Catalogs">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Catalog" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ApplicationNumber" type="xs:string"/>
+							<xs:element name="Abstract" type="xs:string"/>
+							<xs:element name="Author" type="xs:string"/>
+							<xs:element name="CatalogType" type="xs:string"/>
+							<xs:element name="PrimaryURL" type="xs:string"/>
+							<xs:element name="PrimaryURLDescription" type="xs:string"/>
+							<xs:element name="Publisher" type="xs:string"/>
+							<xs:element name="SecondaryURL" type="xs:string"/>
+							<xs:element name="SecondaryURLDescription" type="xs:string"/>
+							<xs:element name="Title" type="xs:string"/>
+							<xs:element name="Year" type="xs:unsignedShort"/>
+						</xs:sequence>
+						<xs:attribute name="ID" type="xs:unsignedInt" use="required"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

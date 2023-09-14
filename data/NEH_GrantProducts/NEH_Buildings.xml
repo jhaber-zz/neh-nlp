@@ -1,0 +1,246 @@
+<Buildings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NEH_Buildings.xsd">
+	<Building ID="564">
+		<ApplicationNumber>CH-50528-08</ApplicationNumber>
+		<Abstract>This includes the relocation of the Ankara library to new facilities that were especially renovated to meet the needs of the library and the newly acquired Mellink collection.</Abstract>
+		<Address>American Research Institute in Turkey, Ankara Temsilcilik
+Sehit Ersan 24/9
+Cankaya
+Ankara 
+Turkey </Address>
+		<Director>ARIT Ankara Director, Dr.  Bahadir Yildirm, 2002-2009</Director>
+		<Name>ARIT Ankara Toni M. Cross Library </Name>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<Year>2007</Year>
+	</Building>
+	<Building ID="1315">
+		<ApplicationNumber>PA-51618-06</ApplicationNumber>
+		<Abstract>Climate-controlled collections storage building the Museum of Anthropology shares with the Library, Archaeology Labs, and University Art Collection.</Abstract>
+		<Address>Wake Forest University, Winston-Salem, NC</Address>
+		<Director>Stephen Whittington</Director>
+		<Name>Offsite Storage Building</Name>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<Year>2010</Year>
+	</Building>
+	<Building ID="2258">
+		<ApplicationNumber>CH-50229-05</ApplicationNumber>
+		<Abstract>The antebellum Lakeport Plantation, built ca. 1859, is the last remaining Arkansas plantation home on the Mississippi River and still retains many of its original finishes.  It tells the stories of the people who lived and worked on the plantation, including the Johnson family, the African Americans who first worked the plantation as enslaved laborers and then as sharecroppers, the craftsmen who built the home and provided its original finishes, and the modern preservation techniques used in its restoration.  , The antebellum Lakeport Plantation, built ca. 1859, is the last remaining Arkansas plantation home on the Mississippi River and still retains many of its original finishes. The renovated home tells the stories of the people who lived and worked on the plantation, including the Johnson family, the African Americans who first worked the plantation as enslaved laborers and then as sharecroppers, the craftsmen who built the home and provided its original finishes, and the modern preservation techniques used in its restoration.</Abstract>
+		<Address>601 Highway 142&amp;#x0D;
+Lake Village, AR 71653</Address>
+		<Director>Dr. Ruth A. Hawkins</Director>
+		<Name>Lakeport Plantation, Lakeport Plantation Home</Name>
+		<PrimaryURL>http://lakeport.astate.edu</PrimaryURL>
+		<PrimaryURLDescription>Lakeport Plantation web site</PrimaryURLDescription>
+		<SecondaryURL>http://arkansasheritagesites.astate.edu/AHS</SecondaryURL>
+		<SecondaryURLDescription>Web Site for the Arkansas Heritage Sites program at Arkansas State University, which includes the Lakeport Plantation and other sites.</SecondaryURLDescription>
+		<Year>2007</Year>
+	</Building>
+	<Building ID="2259">
+		<ApplicationNumber>CH-50229-05</ApplicationNumber>
+		<Abstract>The building that once served as the headquarters for the Southern Tenant Farmers Union has been renovated to tell the story of this nationally significant union, established in 1934 to assist sharecroppers and tenant farmers in fighting abusive practices of landowners in carrying out the provisions of the Agricultural Adjustment Act of 1933.  It was the first agricultural union to include both black and white farmers in the same organization.</Abstract>
+		<Address>117 Main Street&amp;#x0D;
+Tyronza, Arkansas 72386</Address>
+		<Director>Dr. Ruth Hawkins</Director>
+		<Name>Southern Tenant Farmers Museum</Name>
+		<PrimaryURL>http://stfm.astate.edu</PrimaryURL>
+		<PrimaryURLDescription>Web Page for the Southern Tenant Farmers Museum</PrimaryURLDescription>
+		<SecondaryURL>http://arkansasheritagesites.astate.edu/AHS</SecondaryURL>
+		<SecondaryURLDescription>Arkansas Heritage Sites Web Page at Arkansas State University, which includes the Southern Tenant Farmers Museum and other heritage sites owned by the university.</SecondaryURLDescription>
+		<Year>2006</Year>
+	</Building>
+	<Building ID="3961">
+		<ApplicationNumber>CH-50975-13</ApplicationNumber>
+		<Abstract>Thanks to the NEH Challenge grant, the Max Kade Institute for German-American Studies was able to renovate and refurbish the fourth floor of the University Club building on the UW-Madison campus. The grant allowed us to create additional and improved space for the Institute's Library and Archives. Our patrons now have better access to the Institute's resources, and we are able to show exhibits on our own premises that are open to the public.</Abstract>
+		<Address>University Club&amp;#x0D;
+University of Wisconsin-Madison&amp;#x0D;
+432 East Campus Mall&amp;#x0D;
+Madison, WI 53706</Address>
+		<Director>Cora Lee Kluge, Mark Louden</Director>
+		<Name>UW-Madison University Club, 4th floor</Name>
+		<PrimaryURL>http://mki.wisc.edu </PrimaryURL>
+		<PrimaryURLDescription>Max Kade Institute URL</PrimaryURLDescription>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<Year>2014</Year>
+	</Building>
+	<Building ID="18113">
+		<ApplicationNumber>CHA-261915-19</ApplicationNumber>
+		<Abstract>Our NEH Infrastructure and Capacity Building Challenge Grant supported critical capital improvements to Providence Public Library's (PPL) Special Collections Department, including a holistic facilities renovation resulting in our Special Collections being housed in a more user friendly, inviting, easily monitored, and climate controlled space. Our NEH grant has helped ensure that these invaluable humanities resources are properly preserved and openly accessible to the public and researchers for decades to come. The specific scope of work to achieve these goals included significant expansions to our Special Collections storage, research, and gallery space, as well as HVAC and climate control upgrades to ensure the continued integrity of these priceless materials.</Abstract>
+		<Address>150 Empire St.
+Providence, RI 02903</Address>
+		<Director>H. Jack Martin</Director>
+		<Name>Providence Public Library</Name>
+		<PrimaryURL>https://www.provlib.org/research-collections/special-collections/</PrimaryURL>
+		<PrimaryURLDescription>PPL's Special Collections Department</PrimaryURLDescription>
+		<SecondaryURL>https://www.provlib.org/programs-exhibitions/exhibitions/</SecondaryURL>
+		<SecondaryURLDescription>The King Is Dead* virtual exhibition, housed in our newly renovated gallery space which was directly supported by NEH Infrastructure and Capacity Building funding.</SecondaryURLDescription>
+		<Year>2020</Year>
+	</Building>
+	<Building ID="18346">
+		<ApplicationNumber>ZR-256751-18</ApplicationNumber>
+		<Abstract>Received from the Alaska Association for Historic Preservation's award for excellence in historic preservation for sharing the history with the larger public and being a good steward of the NN Cannery, one Alaska's top ten most endangered historic properties.</Abstract>
+		<Address/>
+		<Director>Katherine Ringsmuth</Director>
+		<Name>NN Cannery History Project</Name>
+		<PrimaryURL>https://alaskapreservation.org/</PrimaryURL>
+		<PrimaryURLDescription/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<Year>2019</Year>
+	</Building>
+	<Building ID="18499">
+		<ApplicationNumber>CHA-264409-19</ApplicationNumber>
+		<Abstract>These designs and renderings were developed by architect Will Bruder in late 2019. These represent the current vision for the Nevada Museum of Art expansion project, including an expanded campus; new Center for Art + Environment archive, library, and research center; increased educational space for school groups; greatly expanded gallery spaces; and new collection storage space. These designs and renderings allow us to move forward with project fundraising and provide a practical guide for the work to be completed.</Abstract>
+		<Address/>
+		<Director>Ann Wolfe, Project Director</Director>
+		<Name>Reno expansion designs and renderings by architect Will Bruder</Name>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<Year>2019</Year>
+	</Building>
+	<Building ID="18540">
+		<ApplicationNumber>CH-51264-15</ApplicationNumber>
+		<Abstract>Miller Living Room: 1,500 sq. ft. multi-use performance/demonstration venue with built-in stadium seating and movable seating accommodating up to 150 people. Each day, demonstrations and performances of varied Japanese cultural practices and performing and visual arts attract audiences of all ages and backgrounds.</Abstract>
+		<Address>611 SW Kingston Ave, Portland, OR 97205</Address>
+		<Director/>
+		<Name>Miller Living Room</Name>
+		<PrimaryURL>https://japanesegarden.org/administrative/miller-living-room/</PrimaryURL>
+		<PrimaryURLDescription/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<Year>2017</Year>
+	</Building>
+	<Building ID="18541">
+		<ApplicationNumber>CH-51264-15</ApplicationNumber>
+		<Abstract>Tateuchi Courtyard: 3,000 sq. ft. central courtyard is pedestrian-only and fully ADA accessible. Surrounded by the other humanities program venues, this space is used for outdoor performances, lectures and demonstrations for audiences up to 800 people.</Abstract>
+		<Address>611 SW Kingston Ave, Portland, OR 97205</Address>
+		<Director/>
+		<Name>Tateuchi Courtyard</Name>
+		<PrimaryURL>https://japanesegarden.org/cultural-village/</PrimaryURL>
+		<PrimaryURLDescription/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<Year>2017</Year>
+	</Building>
+	<Building ID="18542">
+		<ApplicationNumber>CH-51264-15</ApplicationNumber>
+		<Abstract>Yanai Classroom: 1,300 sq. ft. classroom with attached kitchen and kimono robing room (required for tea ceremony) and modern AV equipment serves as the primary space for classes, "dry" workshops, and lectures. This space accommodates classes up to 45 students and lectures up to 80 people.</Abstract>
+		<Address>611 SW Kingston Ave, Portland, OR 97205</Address>
+		<Director/>
+		<Name>Yanai Classroom</Name>
+		<PrimaryURL>https://japanesegarden.org/administrative/yanai-classroom/</PrimaryURL>
+		<PrimaryURLDescription/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<Year>2017</Year>
+	</Building>
+	<Building ID="18543">
+		<ApplicationNumber>CH-51264-15</ApplicationNumber>
+		<Abstract>Lemelson Garden Studio: 700 sq. ft. classroom appropriate for wet or dry activities accommodates up to 20 students is used for hands-on workshops in Japanese crafts and garden practices such as book-binding, indigo dying, bonsai, maple and pine pruning, bamboo fence-building, and nobedan stonepaving.</Abstract>
+		<Address>611 SW Kingston Ave, Portland, OR 97205</Address>
+		<Director/>
+		<Name>Lemelson Garden Studio</Name>
+		<PrimaryURL/>
+		<PrimaryURLDescription/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<Year>2017</Year>
+	</Building>
+	<Building ID="18924">
+		<ApplicationNumber>CH-233599-16</ApplicationNumber>
+		<Abstract>The building was opened in 2019 as a multi-use space housing the Cornelius Public Library and YMCA center on the first floor and affordable senior housing on the second and third floors. This NEH grant supported the construction of the first floor to expand the library's capacity, both in terms of collection space and programming.</Abstract>
+		<Address/>
+		<Director>Karen Hill</Director>
+		<Name>Cornelius Public Library</Name>
+		<PrimaryURL>https://www.wccls.org/libraries/cornelius</PrimaryURL>
+		<PrimaryURLDescription>This page on the Washington County Cooperative Library Services website offers information on the Cornelius Public Library and their offerings.</PrimaryURLDescription>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<Year>2019</Year>
+	</Building>
+	<Building ID="18988">
+		<ApplicationNumber>CH-233768-16</ApplicationNumber>
+		<Abstract>The Museum of Idaho underwent a significant expansion from December 2017 to August 2019 and opened in September 2019.</Abstract>
+		<Address/>
+		<Director>Karen Baker</Director>
+		<Name>Museum of Idaho Expansion</Name>
+		<PrimaryURL>https://museumofidaho.org/expansion/</PrimaryURL>
+		<PrimaryURLDescription>This is the page on the Museum of Idaho website that talks about both phases of their expansion.</PrimaryURLDescription>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<Year>2019</Year>
+	</Building>
+	<Building ID="19002">
+		<ApplicationNumber>CH-50816-11</ApplicationNumber>
+		<Abstract>This grant supported the expansion of the Rogers Historical Museum through the renovation of two nearby buildings, the historic Hailey Ford building and the former Masonic Lodge in downtown Rogers.</Abstract>
+		<Address/>
+		<Director>John Burroughs</Director>
+		<Name>Rogers Historical Museum Expansion</Name>
+		<PrimaryURL>http://www.rogershistoricalmuseum.org/campus.html</PrimaryURL>
+		<PrimaryURLDescription>This link offers a description of their campus expansion across four buildings.</PrimaryURLDescription>
+		<SecondaryURL>http://www.rogershistoricalmuseum.org/reopening.html</SecondaryURL>
+		<SecondaryURLDescription>This link offers information on their expansion and their reopening on December 13, 2018.</SecondaryURLDescription>
+		<Year>2018</Year>
+	</Building>
+	<Building ID="19475">
+		<ApplicationNumber>CHA-264398-19</ApplicationNumber>
+		<Abstract>Our community relies on the Hartford Public Library not just for books and materials. It has become the primary place for all information from local services to state services to worldwide questions. Our 2,300 sq.ft. of space cannot service the increasing requirements from our community. Our programs are only in the summer, because the only space available is outdoors. This severely limits the type of humanities programming that we are able to offer. Our community has 17.1% of its residents below poverty level and children under 18 years of age at 30% below poverty level. We have a somewhat diverse population with 26% Hispanic. There also is an increasing population of Native Americans from the Pokagon band of Potawatomi Indians. Our school system has 49% Hispanic/Latino children attending. We have a great need to offer English as a second language classes and the Pokagon Language class, but it is not possible at the present facility. We have no place for quiet reading, no area for author visits and no proper facilities for student tutoring. We have no area for displaying art exhibits. These are just some of the valuable programs needed in our community; let's talk about books, Family Health and Safety Fair, Latino Americans 500 years, Create a vision board, financial literacy, brain stem camp, creative engagement with youth, Great Stories club and Makerspace Lab. We also wanted to apply for the Michigan Humanities Council Arts and Touring Grant, but our facility has no area to accommodate the programs. All of these programs are important for educational and lifelong learning in our community. We can accomplish the above and much more with a new larger facility. Humanities have an essential role to play in helping us engage with each other.</Abstract>
+		<Address>Hartford Public Library
+12 Church Street
+PO Box 8
+Hartford, MI 49057</Address>
+		<Director>Stephanie Daniels</Director>
+		<Name>Hartford Public Library/Art &amp;amp; Bonna Community Center</Name>
+		<PrimaryURL>http://www.hartfordpl.michlibrary.org</PrimaryURL>
+		<PrimaryURLDescription>Website for the Hartford Public Library with links to our programs, calendar and digital programs, local historic newspaper and other services the library provides.</PrimaryURLDescription>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<Year>2019</Year>
+	</Building>
+	<Building ID="19476">
+		<ApplicationNumber>CHA-268859-21</ApplicationNumber>
+		<Abstract>Attached is the project plan, adopted by the Pueblo City-County Library District, as the renovation plan for the Rawlings Library.</Abstract>
+		<Address>100 E. Abriendo Ave., Pueblo, CO 81005</Address>
+		<Director>Jon Walker</Director>
+		<Name>Nick Potts</Name>
+		<PrimaryURL>https://www.pueblolibrary.org/sites/default/files/pdf/boardpackets/2021-06-15 rawlings library reno.pdf</PrimaryURL>
+		<PrimaryURLDescription>Linked above is the project plan, adopted by the Pueblo City-County Library District, as the renovation plan for the Rawlings Library.</PrimaryURLDescription>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<Year>2021</Year>
+	</Building>
+	<Building ID="21968">
+		<ApplicationNumber>CHA-276836-22</ApplicationNumber>
+		<Abstract>Patricia Reser Center for the Arts (The Reser) is a new, professional arts center located in downtown Beaverton, Oregon. Following a four-year period of design, planning, development and construction, The Reser opened its doors to the public on March 1, 2022. Immediately adjacent to City Hall, and within steps of a regional light-rail station, the facility consists of a 550-seat Mainstage Theater, an art gallery, meeting rooms, rehearsal and classroom spaces, and a public plaza. It opened to great acclaim in its first four months of public access. The Reser is designed to present national and international touring artists, local and regional performing arts organizations, visual arts exhibits, and arts and humanities education programs. It will also serve as a social and cultural hub for Beaverton and the growing communities just west of Portland Metro.</Abstract>
+		<Address>12625 SW Crescent St., Beaverton, OR 97005</Address>
+		<Director>Chris Ayzoukian</Director>
+		<Name>Patricia Reser Center for the Arts</Name>
+		<PrimaryURL>http://the.reser.org</PrimaryURL>
+		<PrimaryURLDescription/>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<Year>2022</Year>
+	</Building>
+	<Building ID="22963">
+		<ApplicationNumber>CHA-261867-19</ApplicationNumber>
+		<Abstract>The NEH infrastructure grant directly funded construction of a new location for the School of Arts and Humanities Institute of Arts and Humanities, which includes the entire sixth floor of the Arts and Humanities Building in the forthcoming North Torrey Pines Living and Learning Neighborhood. This location serves as a center of interdisciplinary collaboration.</Abstract>
+		<Address>School of Arts and Humanities
+UC San Diego
+9500 Gilman Drive, MC-0406
+La Jolla, CA 92093-0406</Address>
+		<Director>Cristina Della Coletta</Director>
+		<Name>Arts and Humanities Building</Name>
+		<PrimaryURL>https://artsandhumanities.ucsd.edu/initiatives/living-learning-neighborhood.html</PrimaryURL>
+		<PrimaryURLDescription>The North Torrey Pines Living and Learning Neighborhood</PrimaryURLDescription>
+		<SecondaryURL/>
+		<SecondaryURLDescription/>
+		<Year>2021</Year>
+	</Building>
+</Buildings>
