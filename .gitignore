@@ -26,6 +26,12 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# Data files to ignore
+data/*/*.csv
+data/*.zip
+data/NEH_GrantProducts/Documentation/
+data/NEH_GrantProducts/_Readme.txt
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.

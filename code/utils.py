@@ -59,9 +59,10 @@ def get_unzip(URL, fpath):
     zip_bytes = zip_html.content
     
     fname = URL.split('/')[-1] # Get name for extraction folder using URL
-    with open(join(fpath, fname), "wb") as outfile:
-        outfile.write(zip_bytes)
+    outfile = join(fpath, fname)
+    with open(outfile, "wb") as f:
+        f.write(zip_bytes)
 
-    shutil.unpack_archive(fname, extract_dir=fpath, format = 'zip')
+    shutil.unpack_archive(outfile, extract_dir = fpath, format = 'zip')
     
     return
