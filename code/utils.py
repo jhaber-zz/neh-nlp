@@ -2,28 +2,9 @@
 # coding: utf-8
 
 """
-@title: 
+@title: Utility functions for data processing and analysis
 @author: Jaren Haber, PhD
-@description: 
-
-------------------------------------------------------------------------------------------------
-
-@usage: python3 ...
-
-@args:
--  --> path to folder containing raw text files (with .txt file ext)
--  --> path to folder containing article list
--  --> path to folder to save preprocessed text data
-
-------------------------------------------------------------------------------------------------
-
-@inputs:
-- X (from Y)
-- X (from Y)
-
-@outputs:
-- something (such and such format)
-- something (such and such format)
+@date: September 16, 2023
 
 """
 
@@ -55,13 +36,13 @@ def get_unzip(URL, fpath):
         
     """
     
-    zip_html = requests.get(URL)
-    zip_bytes = zip_html.content
+    zipped = requests.get(URL)
+    zipped_bytes = zipped.content
     
     fname = URL.split('/')[-1] # Get name for extraction folder using URL
     outfile = join(fpath, fname)
     with open(outfile, "wb") as f:
-        f.write(zip_bytes)
+        f.write(zipped_bytes)
 
     shutil.unpack_archive(outfile, extract_dir = fpath, format = 'zip')
     
