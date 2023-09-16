@@ -16,6 +16,8 @@
 # Import packages
 import requests
 import shutil
+import regex # supports recursion and unicode handling
+from unicodedata import normalize # to clean up unicode
 from os.path import join
 
 
@@ -47,3 +49,28 @@ def get_unzip(URL, fpath):
     shutil.unpack_archive(outfile, extract_dir = fpath, format = 'zip')
     
     return
+
+
+def clean_unicode(text, replace_spaces=True):
+    """
+    Cleans unicode from input text and standardizes spacing.
+    
+    Args:
+        text (str) -- any raw text
+        replace_tabs (bin) -- whether to replace consecutive spaces or tabs with single space
+    Returns:
+        text with unicode converted to readable format
+        
+    """
+    
+    if replace_spaces:
+        # Replace all consecutive spaces (including in unicode), tabs, or "|"s with a single space
+        text_cleaned = regex.sub(r"[ \t\h\|]+", " ", text)
+    
+    # Simplify unicode characters by normalizing
+    text_cleaned = normalize('NFKC', text_cleaned)
+    
+    # Remove ascii (such as "\u00")
+    text_cleaned = text_cleaned.encode('ascii', 'ignore').decode('ascii')
+    
+    return text_cleaned
