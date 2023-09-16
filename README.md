@@ -56,21 +56,13 @@ In contrast, topics associated with male authors are relatively common but decli
 
 ## Method details
 
-Something about STM model: https://www.structuraltopicmodel.com/
-About Loess regression
+For the topic modeling portion of this analysis, I used [Structural Topic Modeling in R](https://www.structuraltopicmodel.com/). This approach allows the model to consider document metadata (here, author gender and year of the grant product) when creating topics. 
 
-How I inferred gender
+I used the [gender-guesser package in Python](https://pypi.org/project/gender-guesser/) to infer gender for each author based on their first names. Names labeled as "mostly male" I took to be male, while names labeled as "mostly female" I took as female. 
 
-Something about dropping missing cases and when these tend to be
+For simplicity, I dropped any cases missing Abstract or Year information or with a gender-nonspecific first name (labeled as "unknown"). Access to authors' internal demographic data would allow a more robust analysis. 
 
-
-## Future work
-
-Would be great to have demographic data om authors, like race and gender, or where they live, or fields of study, etc.
-
-More complex analysis: How does the composition of gendered topics change over time? And do the same topics get more or less gendered over time?
-
-Would be great to look at interactions, like how does the gender/topic relationship change over time?
+While I did not analyze how the relationships between gender and topics themselves change over time, this would be a promising avenue for future work.
 
 
 ## Sources and Acknowledgments
