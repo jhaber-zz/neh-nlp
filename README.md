@@ -28,6 +28,17 @@ In contrast, topics associated with male authors are relatively common but decli
 ![Male topics over time](output/male_topics_over_time.png)
 
 
+## Method details
+
+For the topic modeling portion of this analysis, I used [Structural Topic Modeling in R](https://www.structuraltopicmodel.com/). This approach allows the model to consider document metadata (here, author gender and year of the grant product) when creating topics. 
+
+I used the [gender-guesser package in Python](https://pypi.org/project/gender-guesser/) to infer gender for each author based on their first names. Names labeled by the algorithm as "male" or "mostly male" I took to be male, while names labeled as "female" or "mostly female" I took as female. See details on my processing workflow in [this commented Python notebook](https://github.com/jhaber-zz/neh-nlp/blob/main/code/prepare_data.ipynb).
+
+For simplicity, I dropped any cases missing a grant product description ("Abstract") or year of product completion/release ("Year") or that had a gender-nonspecific first name (i.e., those labeled by gender-guesser as "unknown"). Access to authors' internal demographic data would allow a more robust analysis and a better approach to missing data. 
+
+While I did not analyze (yet) how the relationships between gender and topics themselves change over time, this would be a promising avenue for future work.
+
+
 ## Codebase overview: Key folders and contents
 
 ```bash
@@ -53,17 +64,6 @@ In contrast, topics associated with male authors are relatively common but decli
     ├── topic_model_k20.RData # Structural Topic Model using 20 topics
     └── wordcloud.png # Simple word cloud showing most common words (stemmed) in corpus; words are scaled bv frequency
 ```
-
-## Method details
-
-For the topic modeling portion of this analysis, I used [Structural Topic Modeling in R](https://www.structuraltopicmodel.com/). This approach allows the model to consider document metadata (here, author gender and year of the grant product) when creating topics. 
-
-I used the [gender-guesser package in Python](https://pypi.org/project/gender-guesser/) to infer gender for each author based on their first names. Names labeled by the algorithm as "male" or "mostly male" I took to be male, while names labeled as "female" or "mostly female" I took as female. See details on my processing workflow in [this commented Python notebook](https://github.com/jhaber-zz/neh-nlp/blob/main/code/prepare_data.ipynb).
-
-For simplicity, I dropped any cases missing a grant product description ("Abstract") or year of product completion/release ("Year") or that had a gender-nonspecific first name (i.e., those labeled by gender-guesser as "unknown"). Access to authors' internal demographic data would allow a more robust analysis and a better approach to missing data. 
-
-While I did not analyze (yet) how the relationships between gender and topics themselves change over time, this would be a promising avenue for future work.
-
 
 ## Sources and Acknowledgments
 
